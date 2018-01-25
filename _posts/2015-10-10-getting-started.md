@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting Started"
-author: "Paul Le"
+author: "insansevmez"
 categories: journal
 tags: [documentation,sample]
 image: forest.jpg
