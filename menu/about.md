@@ -1,5 +1,6 @@
 ---
 layout: page
-title: About
+title: Hakkında
 ---
-Lagrange is a minimalist Jekyll. It is intended to have a clean, content focused interface for blog writing. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-01-01-welcome-to-lagrange %}).
+Nedir bu İnsan Sevmez? İnsanlar konusu üzerinde bir takım yazılar, bilgiler, fikirler içeren yer yer neden insan sevmediğine/sevdiğine değinen bir düşüncedir. 
+Yorumlar ile fikirleri çoşturabilirsiniz. 
