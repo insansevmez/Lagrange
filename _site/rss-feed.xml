@@ -12,42 +12,13 @@
 					<dc:creator>insansevmez</dc:creator>
 				
 				
-					<description>
+					<description>&lt;p&gt;İyi ve Kötü insan&lt;/p&gt;
+
 </description>
 				
 				<pubDate>Thu, 25 Jan 2018 00:00:00 +0300</pubDate>
 				<link>http://localhost:4000/journal/iyi-ve-kotu-insan.html</link>
 				<guid isPermaLink="true">http://localhost:4000/journal/iyi-ve-kotu-insan.html</guid>
-			</item>
-		
-			<item>
-				<title>Getting Started</title>
-				
-					<dc:creator>insansevmez</dc:creator>
-				
-				
-					<description>&lt;h1 id=&quot;lagrange&quot;&gt;Lagrange&lt;/h1&gt;
-
-</description>
-				
-				<pubDate>Sat, 10 Oct 2015 00:00:00 +0300</pubDate>
-				<link>http://localhost:4000/journal/getting-started.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/getting-started.html</guid>
-			</item>
-		
-			<item>
-				<title>Text Formatting Examples</title>
-				
-					<dc:creator>insansevmez</dc:creator>
-				
-				
-					<description>&lt;h1 id=&quot;markdown-support&quot;&gt;Markdown Support&lt;/h1&gt;
-
-</description>
-				
-				<pubDate>Wed, 01 Jan 2014 00:00:00 +0300</pubDate>
-				<link>http://localhost:4000/journal/text-formatting-examples.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/text-formatting-examples.html</guid>
 			</item>
 		
 	</channel>

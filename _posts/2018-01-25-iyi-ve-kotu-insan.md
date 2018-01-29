@@ -7,5 +7,6 @@ tags: [insansevmez,about,hosgeldiniz]
 image: mountains.jpg
 ---
 
+İyi ve Kötü insan
 
-
+{% include advertisements.html %}
