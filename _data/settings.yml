@@ -3,7 +3,7 @@ disqus:
   comments: true
   disqus_shortname: 'insansevmez'
 
-#google-ID: 'UA-112060364-1'
+google-ID: 'UA-45024950-7'
 
 menu:
 - {name: 'Ana Sayfa', path: 'menu', url: '../index.html'}
