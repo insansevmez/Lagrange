@@ -2,7 +2,6 @@
 layout: post
 title: "İyi ve Kötü İnsan!"
 author: "insansevmez"
-categories: journal
 tags: [iyi insan,kötü insan,soykırım,katil,işyeri,çalışmak,trafik,toplu taşıma]
 image: goodandbadpeople.jpg
 ---
