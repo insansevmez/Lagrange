@@ -2,9 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>İnsan Sevmez</title>
-		<description>Çıkarları uğruna herşeye zarar verebilen canlı türü?</description>
+		<description>İnsanlığa dair bir düşünce...</description>
 		<link></link>
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Çocuk Gelinlerin Sebebi Pedofililer İnsan mı?</title>
+				
+					<dc:creator>insansevmez</dc:creator>
+				
+				
+					<description>&lt;p&gt;Çocuk gelinler ve çocuk istismarları son zamanlarda teknolojinin gelişmeyisle birlikte, haber alma organlarının çeşitlenmesi ve kolaylaşması nedeniyle daha fazla gündeme gelmektedir. İnsanların bilinçlenmeye başlaması ile, bu konulara daha fazla duyarlı davranmaya başladıklarını görüyoruz. Tabiki bilinçlenen insanların yanı sıra değişmeyen hastalıklı zihniyete sahip insanlarında varlığı dünya üzerinde devam etmektedir.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Wed, 31 Jan 2018 00:00:00 +0300</pubDate>
+				<link>http://localhost:4000/cocuk-gelinlerin-sebebi-pedofililer-insanmi.html</link>
+				<guid isPermaLink="true">http://localhost:4000/cocuk-gelinlerin-sebebi-pedofililer-insanmi.html</guid>
+			</item>
 		
 			<item>
 				<title>İyi ve Kötü İnsan!</title>
@@ -17,8 +32,8 @@
 </description>
 				
 				<pubDate>Thu, 25 Jan 2018 00:00:00 +0300</pubDate>
-				<link>http://localhost:4000/journal/iyi-ve-kotu-insan.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/iyi-ve-kotu-insan.html</guid>
+				<link>http://localhost:4000/iyi-ve-kotu-insan.html</link>
+				<guid isPermaLink="true">http://localhost:4000/iyi-ve-kotu-insan.html</guid>
 			</item>
 		
 	</channel>
