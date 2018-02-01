@@ -36,4 +36,3 @@ Dünya Sağlık Örgütü (WHO) **Pedofiliyi** bir yetişkinin bilerek ve bilmey
 
 Bu hastalıklı zihniyetteki canlılar neyi gerekçe gösterirse göstersin, _**bilinçlenip çocuklarımızı korumalıyız.**_
 
-{% include advertisements.html %}

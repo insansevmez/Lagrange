@@ -19,7 +19,12 @@ title: Home
   </p>
 </div>
 {% endfor %}
+
+{% if site.data.settings.development %}
+close-advertisements
+{% else %}
 {% include advertisements.html %}
+{% endif %}
 
 <!-- Pagination links -->
 {% if paginator.total_pages > 1 %}

@@ -22,4 +22,3 @@ Bu örnekler tabiki çok uç örnekler olduğundan biraz daha hayatın içerisid
 
 Peki biri için gerçek sebebini bilmeden sadece öyle olduğunu düşündüğü için iftira atan insanlar nasıl insanlar. Kendi menfaatleri için başkasının canının yanmasını umursamayan hatta sebebi olan insanlar nasıl insanlar. İşyerlerinizde kendisinin koltuğu için bir iş arkadaşını kovdurma düşüncesine girenler nasıl insanlar. Daha verilecek birçok örnek var sanırım. Sizde kendinize sorun, iyi insan ve kötü insan kimdir?
 
-{% include advertisements.html %}
