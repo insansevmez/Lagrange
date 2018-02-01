@@ -10,7 +10,7 @@ image: child-bride.jpg
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/img/viruses_brain.jpg){: .align-center}
 
-Bu hastalıklı zihine sahip canlılara insan dediğimiz için insansevmez olarak bu insanları sevmelimiyiz sorusunu soruyorum. Dünya Sağlık Örgütü'nün son güncellediği yaş dilimlerinde 18 yaşının altındakileri **"ERGEN"** olarak tanımlamştır. Ayrıca Dünya Sağlık Örgütü'nün yayınladığı [Ocak-2018 raporunda](http://www.who.int/mediacentre/factsheets/fs364/en/) dikkat çekici iki madde bulunmaktadır.
+Bu hastalıklı zihine sahip canlılara insan dediğimiz için insansevmez olarak bu insanları sevmeli miyiz sorusunu soruyorum. Dünya Sağlık Örgütü'nün son güncellediği yaş dilimlerinde 18 yaşının altındakileri **"ERGEN"** olarak tanımlamştır. Ayrıca Dünya Sağlık Örgütü'nün yayınladığı [Ocak-2018 raporunda](http://www.who.int/mediacentre/factsheets/fs364/en/) dikkat çekici iki madde bulunmaktadır.
 
 >Her yıl, 15-19 yaşlarındaki yaklaşık 21 milyon kız ve 15 yaşın altında yaşları 2 milyon kız gelişmekte olan bölgelerde gebe kalmaktadır.
 
