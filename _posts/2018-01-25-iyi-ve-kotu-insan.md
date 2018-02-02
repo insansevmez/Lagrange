@@ -16,7 +16,7 @@ Kitleleri hiç düşünmeden yok eden emirleri verenler kendilerine göre hep ha
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/img/trafficaccident.jpg){: .align-center}
 
-Bu örnekler tabiki çok uç örnekler olduğundan biraz daha hayatın içerisiden, kendimizden örnekler verelim. Birçoğumuz bir işyerinde çalışıyoruz, iş yerine gitmek için toplu taşıma araçlarını yada kişisel araçlarımızı kullanıyoruz. Toplu taşıma araçlarını kullanırken gerçekten insan gibimi davranıyoruz. Başkasına saygı göstermeden kendimize göre haklı sebeplerimiz olduğu için önce binmek için birbirimizi ezmiyormuyuz. Peki araç kullanırken, birazdaha erken gidebilmek için trafik kurallarını çiğnemiyormuyuz. Tabiki bunları yaparken kendimize göre haklı sebeplerimiz var.
+Bu örnekler tabiki çok uç örnekler olduğundan biraz daha hayatın içerisiden, kendimizden örnekler verelim. Birçoğumuz bir işyerinde çalışıyoruz, iş yerine gitmek için toplu taşıma araçlarını yada kişisel araçlarımızı kullanıyoruz. Toplu taşıma araçlarını kullanırken gerçekten insan gibimi davranıyoruz. {% include advertisements-word.html %} Başkasına saygı göstermeden kendimize göre haklı sebeplerimiz olduğu için önce binmek için birbirimizi ezmiyormuyuz. Peki araç kullanırken, birazdaha erken gidebilmek için trafik kurallarını çiğnemiyormuyuz. Tabiki bunları yaparken kendimize göre haklı sebeplerimiz var.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/img/slander.jpg){: .align-center}
 

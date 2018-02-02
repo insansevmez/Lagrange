@@ -12,7 +12,7 @@ Türkiye'de kadına yönelik şiddetten ölen kadınların anısını yaşatmak 
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/img/violence-against-women-child.jpg){: .align-center}
 
-Aile içinde kadına yönelik yapılan şiddet ile çocuklara uygulanan şiddet arasıda sıkı bir ilişki bulunmaktadır. Yapılan araştırmaya göre eşlerine şiddet uygulayan erkeklerin %50'sine yakını çocuklarına da şiddet uyguladığını ortaya çıkarmıştır. Aile içi şiddet ortamında büyüyen çocuklar korku, kaygı, depresyon, çevresine karşı şiddet gibi davranışlar gösterebilirler.
+Aile içinde kadına yönelik yapılan şiddet ile çocuklara uygulanan şiddet arasıda sıkı bir ilişki bulunmaktadır. Yapılan araştırmaya göre eşlerine şiddet uygulayan erkeklerin %50'sine yakını çocuklarına da şiddet uyguladığını ortaya çıkarmıştır. {% include advertisements-word.html %} Aile içi şiddet ortamında büyüyen çocuklar korku, kaygı, depresyon, çevresine karşı şiddet gibi davranışlar gösterebilirler.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/img/violence-against-women.jpg){: .align-center}
 
