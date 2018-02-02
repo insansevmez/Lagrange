@@ -18,7 +18,7 @@ Ortadoğu'da çıkan çatışmalar ve yapılan savaşlarda milyonlarca insan hay
 
 Aileleri tarafından korunmayıp para karşığı gözden çıkartılan çocuklar, ne yazıkki bu ve buna benzer çetelerin ellerine düşmektedir. Yaşıtlarının okullara gidip eğitimlerine devam ettiği sürede, ölümden kurtulabilen çoğu çocuk yaşam mücadelesi vermeye devam ediyor. 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/img/child-school.jpg){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/img/child-school.JPG){: .align-center}
 
 Ülkemizde en az 42.000 çocuğun sokaklarda yaşadığı ya da çalıştığı tahmin edilmektedir. Hiçbir suçu olmayan bu masum çocukların, vicdan yoksunu hastalıklı canlılardan korunması sağlanmalıdır.
 
