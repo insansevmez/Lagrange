@@ -1,3 +1,7 @@
+
+{% if site.data.settings.development %}
+close-advertisements
+{% else %}
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -9,11 +13,13 @@
 </script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-45024950-7"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.data.settings.google-ID }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-45024950-7');
+  gtag('config', '{{ site.data.settings.google-ID }}');
 </script>
+
+{% endif %}
