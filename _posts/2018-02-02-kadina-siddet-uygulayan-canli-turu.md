@@ -3,7 +3,7 @@ layout: post
 title: "Kadına Şiddet Uygulayan Canlı Türü"
 author: "insansevmez"
 tags: [kadına şiddet,kadın cinayeti,kadına şiddetin nedenleri,kadın cinayetleri sayaç,anıt sayaç,cadı avı]
-image: violence-against-women2.png
+image: violence-against-women2.jpg
 ---
 
 İnsan sevmez olarak, kadına şiddetin sadece bir kadının sorunu olmadığına, küresel bir sorun olduğuna inanıyorum. Çünkü kadına şiddet tüm dünyada salgın bir hastalık şeklinde devam ediyor. Dünya Sağlık Örgütü [Kasım-2017 raporunda](http://www.who.int/mediacentre/factsheets/fs239/en/) kadın cinayetlerinin %35'i birlikte oldukları erkekler tarafından işlendiğini belirtiyor.
@@ -14,7 +14,7 @@ Türkiye'de kadına yönelik şiddetten ölen kadınların anısını yaşatmak 
 
 Aile içinde kadına yönelik yapılan şiddet ile çocuklara uygulanan şiddet arasıda sıkı bir ilişki bulunmaktadır. Yapılan araştırmaya göre eşlerine şiddet uygulayan erkeklerin %50'sine yakını çocuklarına da şiddet uyguladığını ortaya çıkarmıştır. Aile içi şiddet ortamında büyüyen çocuklar korku, kaygı, depresyon, çevresine karşı şiddet gibi davranışlar gösterebilirler.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/img/violence-against-women.png){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/img/violence-against-women.jpg){: .align-center}
 
 Kadına yönelik şiddet birçok devirde kültürler, dinler ve gelenekler altına gizlenmiştir. Bu sebeple genellikle şiddete maruz kalındığının farkına varılması zorlaşmaktadır. Hakaret, bağırma, aşağılama, yasaklama, küçümseme, engelleme vb. birçok şiddet çeşitleri bulunmaktadır.
 
