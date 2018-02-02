@@ -12,7 +12,7 @@ Yaşıtları sokaklarda oynarken, okullarda eğitim alırken onlar belkide başl
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/img/syria-child.jpg){: .align-center}
 
-Ortadoğu'da çıkan çatışmalar ve yapılan savaşlarda milyonlarca insan hayatını kaybetmiştir. Bu bataklıktan kaçabilen çocukları ise başka bataklıklara sürükleyenler yeni bir sorun oluşturuyor. STK temsilcileri özellikle çocuk dilencilerin sayısındaki artışa dikkat çekiyor. İstanbul Emniyeti'ne bağlı Çocuk Şube Müdürlüğü ekiplerince mülteci çocukların zorla dilendirildiği ve mendil sattırıldığını tespit etti. Yapılan soruşturma sonrasında çocukların ailelerinden para karşılığı [kiralandığı](http://www.sozcu.com.tr/2017/gundem/suriyeli-dilenci-cocuklarin-arkasindan-dram-cikti-2006758/) ortaya çıktı. 
+Ortadoğu'da çıkan çatışmalar ve yapılan savaşlarda milyonlarca insan hayatını kaybetmiştir. Bu bataklıktan kaçabilen çocukları ise başka bataklıklara sürükleyenler yeni bir sorun oluşturuyor. STK temsilcileri özellikle çocuk dilencilerin sayısındaki artışa dikkat çekiyor. {% include advertisements-word.html %} İstanbul Emniyeti'ne bağlı Çocuk Şube Müdürlüğü ekiplerince mülteci çocukların zorla dilendirildiği ve mendil sattırıldığını tespit etti. Yapılan soruşturma sonrasında çocukların ailelerinden para karşılığı [kiralandığı](http://www.sozcu.com.tr/2017/gundem/suriyeli-dilenci-cocuklarin-arkasindan-dram-cikti-2006758/) ortaya çıktı. 
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/img/Syria-Homeless.jpg){: .align-center}
 
