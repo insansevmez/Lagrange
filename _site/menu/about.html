@@ -98,6 +98,8 @@
     
       <a href="https://www.facebook.com/insansevmezcom" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
     
+      <a href="https://twitter.com/insansevmez_" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+    
       <a href="mailto:insansevmezcom@gmail.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
     
       <a href="../feed.xml" target="_blank"><i class="fa fa-rss-square" aria-hidden="true"></i></a>
@@ -123,6 +125,8 @@ Yorumlar ile fikirleri coşturabilirsiniz.</p>
     <footer class="footer">
   
     <a href="https://www.facebook.com/insansevmezcom" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+  
+    <a href="https://twitter.com/insansevmez_" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
   
     <a href="mailto:insansevmezcom@gmail.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
   
@@ -151,6 +155,20 @@ margin-top: -100px;
 margin-left: -155px;
 
 -webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px}#fbox-button{float:right;cursor:pointer;position:absolute;right:0;top:0}#fbox-button:before{content:"Kapat";padding:5px 8px;background:#828282;color:#eaeaea;font-weight:700;font-size:10px;font-family:Tahoma}#fbox-link,#fbox-link a.visited,#fbox-link a,#fbox-link a:hover{color:#aaa;font-size:9px;text-decoration:none;text-align:center;padding:5px}
+
+.nav-container2 { width:940px; margin:auto; height:30px;}
+.nav-container2 h3{    
+    text-align: center;    
+    font-size: 15px;
+    max-height: 0px;
+    margin-bottom: -35px;
+    margin-top: 34px;
+    left: -27px;
+    width: 300px;
+    text-align: center;}
+.social-media-list { width: 393px; }
+.social-media-list li { display:block; float: left; width:33.3%; text-align:center; margin-top: 80px;}
+
 </style>
 <script type='text/javascript'>
 //<![CDATA[
@@ -160,7 +178,7 @@ jQuery.cookie=function(a,b,c){if(arguments.length>1&&"[object Object]"!==String(
 <script type='text/javascript'>
 jQuery(document).ready(function($){
 if($.cookie('popup_facebook_box') != 'yes'){
-$('#fbox-background').delay(5000).fadeIn('medium');
+$('#fbox-background').delay(0).fadeIn('medium');
 $('#fbox-button, #fbox-close').click(function(){
 $('#fbox-background').stop().fadeOut('medium');
 });
@@ -174,7 +192,18 @@ $.cookie('popup_facebook_box', 'yes', { path: '/', expires: 7 });
 <div id='fbox-display'>
 <div id='fbox-button'>
 </div>
-<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Finsansevmezcom%2F&tabs&width=300&height=130&small_header=false&adapt_container_width=false&hide_cover=false&show_facepile=false&appId" width="100%" height="130px" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+<div class="nav-container2">
+        <h3>İnsan Sevmezi'i sosyal medyada takip etmek ister misin?</h3> 
+        <ul class="social-media-list">
+            <li>
+                    <a href="https://twitter.com/insansevmez_?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-lang="tr" data-show-count="false">Follow @insansevmez_</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </li>
+            <li>
+                    <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Finsansevmezcom%2F&width=51&layout=button&action=like&size=small&show_faces=false&share=false&height=65&appId" width="100%" height="65" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+            </li>
+        </ul>
+    </div>
 </div>
 </div>
 
