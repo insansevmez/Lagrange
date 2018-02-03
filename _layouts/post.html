@@ -36,4 +36,12 @@ close-advertisements
 {% endif %}
 {% endif %}
 
-
+{% 
+  include sutructured-data.html 
+  headline=page.title
+  genre=page.tags
+  keywords=page.tags
+  content=page.content
+  link=page.permalink
+  date=page.date
+%}
