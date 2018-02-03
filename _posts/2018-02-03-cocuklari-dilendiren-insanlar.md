@@ -2,7 +2,7 @@
 layout: post
 title: "Çocukları Dilendiren İnsanlar"
 author: "insansevmez"
-tags: [çocuk dilenci,dilenci çeteleri,mülteci çocuklar,çocuk kiralık,suriyeli çocuk,suriye dilenci]
+tags: [çocuk dilenci,dilenci çeteleri,mülteci çocuklar,çocuk kiralık,suriyeli çocuk,suriye dilenci,insansevmez]
 image: syria-child-2.jpg
 ---
 

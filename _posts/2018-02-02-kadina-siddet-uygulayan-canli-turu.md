@@ -2,7 +2,7 @@
 layout: post
 title: "Kadına Şiddet Uygulayan Canlı Türü"
 author: "insansevmez"
-tags: [kadına şiddet,kadın cinayeti,kadına şiddetin nedenleri,kadın cinayetleri sayaç,anıt sayaç,cadı avı]
+tags: [kadına şiddet,kadın cinayeti,kadına şiddetin nedenleri,kadın cinayetleri sayaç,anıt sayaç,cadı avı,insansevmez]
 image: violence-against-women2.jpg
 ---
 
