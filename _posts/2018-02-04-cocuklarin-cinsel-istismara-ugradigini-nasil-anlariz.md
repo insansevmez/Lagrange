@@ -6,7 +6,7 @@ tags: [tecavüz,çocuk istismar,çocuk tecavüz,istismarı nasıl anlarsınız,t
 image: cocuk-istismar-4.jpg
 ---
 
-Son zamanlar medyada sürekli karşılaştığımız çocuk istismarları haberleri çok korkunç boyutlara ulaştı. Cinsel istismara uğrayan çocukların yaşadıklarını sosyal medyanın desteği ile ortaya çıkaran pekçok haberler hergün sarsılıyoruz. Bu insan olamayan canlı türlerinin pis ellerini çocuklarımızın üzerinden çekmeleri için, daha çok duyarlı ve bilinçi olmalıyız.
+Son zamanlar medyada sürekli karşılaştığımız çocuk istismarları haberleri çok korkunç boyutlara ulaştı. Cinsel istismara uğrayan çocukların yaşadıklarını sosyal medyanın desteği ile ortaya çıkaran pekçok haber ile hergün sarsılıyoruz. Bu insan olamayan canlı türlerinin pis ellerini çocuklarımızın üzerinden çekmeleri için, daha çok duyarlı ve bilinçi olmalıyız.
 
 **Çocuk İstismarının Yaygınlığı**
 
