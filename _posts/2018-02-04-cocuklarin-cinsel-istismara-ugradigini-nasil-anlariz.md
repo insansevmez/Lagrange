@@ -2,7 +2,7 @@
 layout: post
 title: "Çocukların Cinsel İstismara Uğradığını Nasıl Anlarız?"
 author: "insansevmez"
-tags: [tecavüz,çocuk istismar,çocuk tecavüz,istismarı nasıl anlarsınız,tacizi nasıl anlarsınız,çocuk taciz,çocuk davranışı,insansevmez]
+tags: [cinsel istismar,cocuk cinsel,tecavuz,cocuk istismar,cocuk tecavuz,istismari nasil anlarsiniz,tacizi nasil anlariz,cocuk taciz,cocuk davranisi,insansevmez]
 image: cocuk-istismar-4.jpg
 ---
 
