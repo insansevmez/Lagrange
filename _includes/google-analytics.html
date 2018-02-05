@@ -11,15 +11,12 @@ close-advertisements
   ga('create', '{{ site.data.settings.google-ID }}', 'auto');
   ga('send', 'pageview');
 </script>
-
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.data.settings.google-ID }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', '{{ site.data.settings.google-ID }}');
 </script>
-
 {% endif %}
