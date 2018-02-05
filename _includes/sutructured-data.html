@@ -8,7 +8,7 @@
    "genre":"{{ include.category }}",
    "keywords":"{{ include.keywords }}",
    "wordCount":"{{ wordcount }}",
-   "url":"http://insansevmez.com/{{ include.link }}",
+   "url":"https://insansevmez.com/{{ include.link }}",
    "datePublished":"{{ include.date | | date: '%Y-%m-%d' }}",
    "author":{  
       "@type":"Person",
@@ -27,20 +27,20 @@
       ],
       "logo": {
   		"@type": "ImageObject",
-  		"contentUrl": "http://insansevmez.com/assets/img/logo.png",
-  		  "url": "http://insansevmez.com/"
+  		"contentUrl": "https://insansevmez.com/assets/img/logo.png",
+  		  "url": "https://insansevmez.com/"
     }
    },
    "image":{  
       "@type":"ImageObject",
-      "contentUrl":"http://insansevmez.com/assets/img/cardboard.jpg",
+      "contentUrl":"https://insansevmez.com/assets/img/cardboard.jpg",
       "url":"https://pauldambra.github.io",
       "height":"280",
       "width":"650"
    },
    "mainEntityOfPage":{  
       "@type":"WebPage",
-      "@id":"http://insansevmez.com{{ include.link }}"
+      "@id":"https://insansevmez.com{{ include.link }}"
    },
    "articleBody":"{{ include.content | strip_html | xml_escape | normalize_whitepace | strip_newlines | strip }}"
 }
