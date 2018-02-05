@@ -4,6 +4,7 @@ title: "Çocukları Dilendiren İnsanlar"
 author: "insansevmez"
 tags: [cocuk dilenci,mendil satan,dilenci mendil,mendil cocuk,mendil suriye,dilenci cetesi,multeci cocuklar,cocuk kiralık,suriyeli cocuk,suriye dilenci,insansevmez]
 image: syria-child-2.jpg
+summary: "Çocukları dilendiren insanlar kimler. Suriyeli anne babalar çocuklarını dilendiriyor. Dilenci çetelerine düşen suriyeli çocuklar"
 ---
 
 Dünya üzerinde açlık ve savaşlar nedeniyle doğup büyüdükleri yerlerden göç eden milyonlarca insan, çok zor şartlarda hayatlarını devam ettirmeye çalışıyorlar. Bu zorlu mücadele sırasında en çok acı çekenler tabiki çocuklar oluyor. Hergün sokaklarda okul çağında olmayacak kadar küçük çocuklar dilendiriliyor. Kimisi bir kaldırım taşının üzerinde çıplak ayaklarıyla oturuyor, kimisi elinde bir mızıka metro girişinde ezberleyebildiği bir iki şarkıyı çalmaya çalışıyor.

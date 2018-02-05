@@ -4,6 +4,7 @@ title: "Kadına Şiddet Uygulayan Canlı Türü"
 author: "insansevmez"
 tags: [hadin cinayeti haber,kadina siddet haber,kadina siddet,kadın cinayeti,kadina siddetin nedenleri,kadin cinayetleri sayac,anıt sayac,cadı avi,insansevmez]
 image: violence-against-women2.jpg
+summary: "Kadına şiddet uygulayan canlı türü nedir. 2017 kadın cinayetleri raporu. Kadın cinayetlerinin sebepleri nelerdir. Aile içi şiddetin çocuklar üzerindeki etkileri."
 ---
 
 İnsan sevmez olarak, kadına şiddetin sadece bir kadının sorunu olmadığına, küresel bir sorun olduğuna inanıyorum. Çünkü kadına şiddet tüm dünyada salgın bir hastalık şeklinde devam ediyor. Dünya Sağlık Örgütü [Kasım-2017 raporunda](http://www.who.int/mediacentre/factsheets/fs239/en/) kadın cinayetlerinin %35'i birlikte oldukları erkekler tarafından işlendiğini belirtiyor.
