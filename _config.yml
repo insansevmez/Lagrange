@@ -13,7 +13,8 @@
 # jekyll-paginate configuration
 paginate:            5
 
-twitter: insansevmez_
+twitter:
+  username: insansevmez_
 
 # Build settings
 markdown:            kramdown
