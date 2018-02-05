@@ -30,8 +30,18 @@
   <!-- Google Analytics -->
   {% include google-analytics.html %}
   <!-- Use Jekyll SEO plugin -->
-  <!-- {% seo %} -->
+  <!-- {% seo %} -->  
+  {% 
+    include sutructured-data.html 
+    headline=page.title
+    genre=page.tags
+    keywords=page.tags
+    content=page.content
+    link=page.permalink
+    date=page.date
+  %}
 
-  
+
+
 
 </head>
