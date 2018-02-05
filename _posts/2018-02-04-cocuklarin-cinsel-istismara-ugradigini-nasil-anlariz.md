@@ -29,7 +29,7 @@ yüzyüze görüşülmüştür. Çocuk katılımcılar, yaş, cinsiyet ve bölge
 istismarın sırasıyla ev, okul ve sokakta gerçekleştiğini; istismar eden kişilerin de sırasıyla
 baba, öğretmen, anne, arkadaş ve komşu olduğunu anlatmışlardır. 
 
-![çocuk istismar]({{ site.url }}{{ site.baseurl }}/assets/img/cocuk-istismar-3.jpg,){: .align-center}
+![{{page.title}}]({{ site.url }}{{ site.baseurl }}/assets/img/cocuk-istismar-3.jpg,){: .align-center}
 
 **Bir Çocuğun İstismara Uğradığını Nasıl Anlarsınız?**
 
@@ -53,7 +53,7 @@ baba, öğretmen, anne, arkadaş ve komşu olduğunu anlatmışlardır.
 
 >Bazı insanlara karşı korku ve yanlız kalmama isteği.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/img/cocuk-istismar-2.jpg){: .align-center}
+![{{page.title}}]({{ site.url }}{{ site.baseurl }}/assets/img/cocuk-istismar-2.jpg){: .align-center}
 
 
 **Cinsel İstismara Uğramış Bir Çocuğa Nasıl Davranılır?**
@@ -72,13 +72,13 @@ Ancak bu tutumlar hangi yaşta olursa olsun çocuğun ebeveynlere karşı güven
 
 Çoğu ebevenylerin, çocuğun istismara maruz kalmadan önce bazı önlemleri almaları gerekmetedir. Çocuğa yaşına uygun cinsel bilgilerin verilemesi, cinsel bölgelere dokunulma ile ilgili bazı öğretilerin yapılması, tuvalet için yardım isteyebileceği durumlarda kimlerden ve ne ölçüde yardım istemesi gerektiği konuları anlatılması gibi psikoljik destek kapsamına alınmalıdır.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/img/cocuk-istismar-5.jpg){: .align-center}
+![{{page.title}}]({{ site.url }}{{ site.baseurl }}/assets/img/cocuk-istismar-5.jpg){: .align-center}
 
 *Çocuğun Hayal Dünyasında Cinsel Davranışlar Bulunmamaktadır*
 
 Çocuğun özellikle cinsellik yada istismara yönelik söyleyebileceği herşeyi dikkate alıp şüphe ile bakmak gerekmektedir. Çünkü çocuğun hayal dünyasında bu bilgiler bulunmamaktadır. Çocuğun yaşına göre sorduğu soruları dikkate alarak merak ettiği konular üzerinden bilgi edinilmelidir.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/img/cocuk-istismar.jpg){: .align-center}
+![{{page.title}}]({{ site.url }}{{ site.baseurl }}/assets/img/cocuk-istismar.jpg){: .align-center}
 
 *Bu Cümleler Kesinlikle Kurulmamalı*
 

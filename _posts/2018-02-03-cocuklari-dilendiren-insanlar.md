@@ -11,15 +11,15 @@ Dünya üzerinde açlık ve savaşlar nedeniyle doğup büyüdükleri yerlerden 
 
 Yaşıtları sokaklarda oynarken, okullarda eğitim alırken onlar belkide başlarını sokacak bir ev bulamıyorlar.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/img/syria-child.jpg){: .align-center}
+![{{page.title}}]({{ site.url }}{{ site.baseurl }}/assets/img/syria-child.jpg){: .align-center}
 
 Ortadoğu'da çıkan çatışmalar ve yapılan savaşlarda milyonlarca insan hayatını kaybetmiştir. Bu bataklıktan kaçabilen çocukları ise başka bataklıklara sürükleyenler yeni bir sorun oluşturuyor. STK temsilcileri özellikle çocuk dilencilerin sayısındaki artışa dikkat çekiyor. {% include advertisements-word.html %} İstanbul Emniyeti'ne bağlı Çocuk Şube Müdürlüğü ekiplerince mülteci çocukların zorla dilendirildiği ve mendil sattırıldığını tespit etti. Yapılan soruşturma sonrasında çocukların ailelerinden para karşılığı [kiralandığı](http://www.sozcu.com.tr/2017/gundem/suriyeli-dilenci-cocuklarin-arkasindan-dram-cikti-2006758/) ortaya çıktı. 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/img/Syria-Homeless.jpg){: .align-center}
+![{{page.title}}]({{ site.url }}{{ site.baseurl }}/assets/img/Syria-Homeless.jpg){: .align-center}
 
 Aileleri tarafından korunmayıp para karşığı gözden çıkartılan çocuklar, ne yazıkki bu ve buna benzer çetelerin ellerine düşmektedir. Yaşıtlarının okullara gidip eğitimlerine devam ettiği sürede, ölümden kurtulabilen çoğu çocuk yaşam mücadelesi vermeye devam ediyor. 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/img/child-schools.jpg){: .align-center}
+![{{page.title}}]({{ site.url }}{{ site.baseurl }}/assets/img/child-schools.jpg){: .align-center}
 
 Ülkemizde en az 42.000 çocuğun sokaklarda yaşadığı ya da çalıştığı tahmin edilmektedir. Hiçbir suçu olmayan bu masum çocukların, vicdan yoksunu hastalıklı canlılardan korunması sağlanmalıdır.
 

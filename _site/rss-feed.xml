@@ -7,6 +7,21 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Uyuşturucu Madde Kullanım Yaşı</title>
+				
+					<dc:creator>insansevmez</dc:creator>
+				
+				
+					<description>&lt;p&gt;Son dönemlerde alkol ve uyuşturucu madde bağımlılığının artış göstermesi endişe vermektedir. Haberlerde, sosyal medyada hatta sokakta gördüğümüz uyuşturucu madde bağımlısı gençlerin durumu, uyuşturucu madde bağımlılığının her geçen yıl arttığının sinyalini veriyor. Sentetik uyuşturucu madde tehlikesi her geçen gün artmaktadır. Türkiye’de 2016 yılına oranla uyuşturucu madde bağımlılığından hayatını kaybedenlerin sayısı 4 kat arttı.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 06 Feb 2018 00:00:00 +0300</pubDate>
+				<link>http://localhost:4000/uyusturucu-kullanim-yasi.html</link>
+				<guid isPermaLink="true">http://localhost:4000/uyusturucu-kullanim-yasi.html</guid>
+			</item>
+		
+			<item>
 				<title>Çocukların Cinsel İstismara Uğradığını Nasıl Anlarız?</title>
 				
 					<dc:creator>insansevmez</dc:creator>
