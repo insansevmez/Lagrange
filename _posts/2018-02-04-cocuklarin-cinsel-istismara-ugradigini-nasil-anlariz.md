@@ -29,7 +29,7 @@ yüzyüze görüşülmüştür. Çocuk katılımcılar, yaş, cinsiyet ve bölge
 istismarın sırasıyla ev, okul ve sokakta gerçekleştiğini; istismar eden kişilerin de sırasıyla
 baba, öğretmen, anne, arkadaş ve komşu olduğunu anlatmışlardır. 
 
-![{{page.title}}]({{ site.url }}{{ site.baseurl }}/assets/img/cocuk-istismar-3.jpg,){: .align-center}
+![{{page.title}}]({{ site.url }}{{ site.baseurl }}/assets/img/cocuk-istismar-3.jpg){: .align-center}
 
 **Bir Çocuğun İstismara Uğradığını Nasıl Anlarsınız?**
 
