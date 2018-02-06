@@ -4,7 +4,7 @@ disqus:
   disqus_shortname: 'insansevmez'
 
 google-ID: 'UA-45024950-7'
-development: false
+development: true
 
 menu:
 - {name: 'Ana Sayfa', path: 'menu', url: '../'}
