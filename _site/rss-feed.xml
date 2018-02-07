@@ -7,6 +7,21 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Şiddet Uygulama İsteği ve Şiddetin Nedenleri</title>
+				
+					<dc:creator>insansevmez</dc:creator>
+				
+				
+					<description>&lt;p&gt;Günlük yaşantımızda herhangi bir anda karşımıza çıkabilen yada aynı evi paylaştığımız ailemizin içinde gördüğümüz, ufacık sorunları büyütebilen, hiç kavga edilmeyecek konularda dahi kavga edebileceğimiz yapıdaki insanlardan bahsedeceğim. Hemen hemen çoğunuz bu türdeki karaktere sahip insanlarla karşılaşmısınızdır. Bu insanların böle bir karaktere sahip olmalarını, uzmanlar bir çok etkene bağlı olabileceğini belirtiyorlar.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Wed, 07 Feb 2018 00:00:00 +0300</pubDate>
+				<link>http://localhost:4000/siddet-uygulama-istegi-ve-siddetin-nedenleri.html</link>
+				<guid isPermaLink="true">http://localhost:4000/siddet-uygulama-istegi-ve-siddetin-nedenleri.html</guid>
+			</item>
+		
+			<item>
 				<title>Uyuşturucu Madde Kullanım Yaşı</title>
 				
 					<dc:creator>insansevmez</dc:creator>
