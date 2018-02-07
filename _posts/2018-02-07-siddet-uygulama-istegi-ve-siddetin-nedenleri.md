@@ -21,7 +21,7 @@ Medyadaki şiddet içerikli görüntülerin **"aşk cinayeti"**, **"namus cinaye
 
 **Şiddetin Ortaya Çıkışı**
 
-Şiddet dediğimizde aklımıza sonucu malesef ölüme giden fiziksel davranışlar gelmektedir. Oysaki şiddetin bir süreci bulunmaktadır. İncitici sözler zaman içerisinde yerini ses yükseltmeye bırakıyor. Sesini yükselten kişi bu daha sonra karşısındakinin susmasını istiyor ve yükselen ses bağırmaya dönüşüyor. Bir süre sonra hakaret ve küfür içeren sözler yerini alıyor. Daha sonra bu davranışlar tokatlar, dövmeler ve ne yazık ki ölümle sonuçlanıyor.
+Şiddet dediğimizde aklımıza sonucu malesef ölüme giden fiziksel davranışlar gelmektedir. Oysaki şiddetin bir süreci bulunmaktadır. İncitici sözler zaman içerisinde yerini ses yükseltmeye bırakıyor. Sesini yükselten kişi daha sonra karşısındakinin susmasını istiyor ve yükselen ses bağırmaya dönüşüyor. Bir süre sonra hakaret ve küfür içeren sözler yerini alıyor. Daha sonra bu davranışlar tokatlar, dövmeler ve ne yazık ki ölümle sonuçlanıyor.
 
 ![{{page.title}}]({{ site.url }}{{ site.baseurl }}/assets/img/kavga2.jpg){: .align-center}
 
@@ -37,6 +37,6 @@ Kişi şiddet görerek büyümüş ise bir süre sonra şiddetin kafasında norm
 
 **Bireyler İle Aranızda Sınırları Çizmelisiniz**
 
-Kişinin şeddete meyilli olmasının mutlaka eşinede şiddet göstereceği anlamına gelmemektedir. Bir eşin diğerine şiddet uygulayabilmesi şiddete maruz kalanın çizdiği sınırlarla ilgilidir. Eşine her şiddet uygulayan kişi sokaktaki birine yada patronunada şiddet uygulayamadığı için bireyler arasında sınırların çizilmesi gerekmektedir. Şiddete maruz kalan kişi ilk önce şiddetin farkına varıp tepkisini ortaya koyması gerekmektedir. Tepki gösterirken dikkat edilmesi gerekenlerden başlıcaları ise karşındakini eleştirmemek ve suçlayıcı olmamak. Bu şekilde iletişimin başarılı olduğu görülmektedir.
+Kişinin şiddete meyilli olmasının mutlaka eşinede şiddet göstereceği anlamına gelmemektedir. Bir eşin diğerine şiddet uygulayabilmesi şiddete maruz kalanın çizdiği sınırlarla ilgilidir. Eşine her şiddet uygulayan kişi sokaktaki birine yada patronunada şiddet uygulayamadığı için bireyler arasında sınırların çizilmesi gerekmektedir. Şiddete maruz kalan kişi ilk önce şiddetin farkına varıp tepkisini ortaya koyması gerekmektedir. Tepki gösterirken dikkat edilmesi gerekenlerden başlıcaları ise karşındakini eleştirmemek ve suçlayıcı olmamak. Bu şekilde iletişimin başarılı olduğu görülmektedir.
 
 *İnsan sevmez olarak şiddetin fakına varmak ve önlemlerini almak gerektiğinin altını çiziyorum!*   
