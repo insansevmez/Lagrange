@@ -7,7 +7,7 @@ image: kavga.jpg
 summary: "Şiddet uygulama istedği. Şiddetin nedenleri nelerdir. Şiddetten korunma yöntemleri nelerdir.Çocukluk Yaşlardaki Şiddete Maruz Kalma Durumu. Şiddetin Ortaya Çıkışı. Kültürümüzün Şiddetteki Yeri. Ailesel Davranışların Birey Üzerindeki Etkileri. Kızını dövmeyen dizini döver, dayak cennetten çıkmadır. Kadın dediğin fedakar olur, yuvayı dişi kuş yapar, şaçını süpürge etmesi.aşk cinayeti namus cinayeti"
 ---
 
-Günlük yaşantımızda herhangi bir anda karşımıza çıkabilen yada aynı evi paylaştığımız ailemizin içinde gördüğümüz, ufacık sorunları büyütebilen, hiç kavga edilmeyecek konularda dahi kavga edebileceğimiz yapıdaki insanlardan bahsedeceğim. Hemen hemen çoğunuz bu türdeki karaktere sahip insanlarla karşılaşmısınızdır. Bu insanların böle bir karaktere sahip olmalarını, uzmanlar bir çok etkene bağlı olabileceğini belirtiyorlar.
+Günlük yaşantımızda herhangi bir anda karşımıza çıkabilen yada aynı evi paylaştığımız ailemizin içinde gördüğümüz, ufacık sorunları büyütebilen, hiç kavga edilmeyecek konularda dahi kavga edebileceğimiz yapıdaki insanlardan bahsedeceğim. Hemen hemen çoğunuz bu türdeki karaktere sahip insanlarla karşılaşmışsınızdır. Bu insanların böle bir karaktere sahip olmalarını, uzmanlar bir çok etkene bağlı olabileceğini belirtiyorlar.
 
 **Çocukluk Yaşlardaki Şiddete Maruz Kalma Durumu**
 
