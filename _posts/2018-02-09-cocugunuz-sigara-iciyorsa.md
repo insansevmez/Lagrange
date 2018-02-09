@@ -21,7 +21,7 @@ Dünyada olduğu gibi Türkiye’de de sigaraya başlama yaşı hızla düşmekt
 
 {% include advertisements-word.html %}
 
-**Sigaranın Nasıl Anlatılmalıdır?**
+**Sigaranın Zararları Nasıl Anlatılmalıdır?**
 
 Öncelikle ergenlik öncesinde çocukluk döneminde bu konuların iletişim halinde konuşulmuş olması gerekmektedir. Çocuklara sohbet edilirken sigaranın olumsuz etkileri anlatılmalıdır. Sigara içen birisine rastlanıldığı zaman sigaranın olumsuz etkileri üzerinde sohbet edilmesi çok etkilidir. 12 yaşından sonra ise ergenlerin ilişkilerde sigaradan görecekleri zararlarla ilgili, çok çabuk bağımlı yaptığı hakkında bilgilendirmek ve hayır diyebilmenin en önemli madde olduğu anlatılmalıdır. Rol model olarak ebeveyn çok önemlidir. Çocuklar rol model olarak aileyi örnek alacakları için ebebynlerin sigara içmemeleri olumlu etki yaratacaktır.
 
