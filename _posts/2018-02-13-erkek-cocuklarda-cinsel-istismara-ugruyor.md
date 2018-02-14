@@ -21,7 +21,7 @@ Cinsel istismar haberlerinin her geçen gün arttığının farkında olmalısı
 
 {% include advertisements-word.html %}
 
-**Alileler Şikayet Etmiyor Yada Vazgeçiyor**
+**Aileler Şikayet Etmiyor Yada Vazgeçiyor**
 
 Ülkemizde birçok istismar olayında ailelerin olayın üstünü örtmek yada şikayette bulunulsa da daha sonra şikayetten vazgeçtiği ortaya çıkmaktadır. Uzmanlar cinsel istismar olaylarının ancak %15'inin şikayet ile adli makamlara bildirildiğini belirtiyorlar. Bu nedenden dolayı birçok istismar olayı ortaya çıkmıyor ve biz sadece buzdağının görünen kısmını görebiliyoruz. Ülkemizde kültürümüzün, geleneklerimizin, dinimizin altına gizlenerek **önüne geçilmek istenmeyen** cinel istismarların, sonucunda her geçen gün artarak devam eden ve bir çoğu gizlendiği için ortaya çıkamayan olaylarda çocuklarımızın hayatını karartmaktayız.
 
