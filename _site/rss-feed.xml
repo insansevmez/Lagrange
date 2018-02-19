@@ -7,6 +7,21 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Endişe Nedir?</title>
+				
+					<dc:creator>insansevmez</dc:creator>
+				
+				
+					<description>&lt;p&gt;&lt;strong&gt;Endişeyi nasıl tanımlayalım ve endişenin korku ile ilişkisi nedir?&lt;/strong&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 19 Feb 2018 00:00:00 +0300</pubDate>
+				<link>http://localhost:4000/endise-nedir.html</link>
+				<guid isPermaLink="true">http://localhost:4000/endise-nedir.html</guid>
+			</item>
+		
+			<item>
 				<title>Erkek Çocuklar da Cinsel İstismara Uğruyor</title>
 				
 					<dc:creator>insansevmez</dc:creator>
@@ -142,21 +157,6 @@ Eğer sevgi &lt;strong&gt;“sahip olmak”&lt;/strong&gt; türünde ele alınac
 				<pubDate>Fri, 02 Feb 2018 00:00:00 +0300</pubDate>
 				<link>http://localhost:4000/kadina-siddet-uygulayan-canli-turu.html</link>
 				<guid isPermaLink="true">http://localhost:4000/kadina-siddet-uygulayan-canli-turu.html</guid>
-			</item>
-		
-			<item>
-				<title>Çocuk Gelinlerin Sebebi Pedofililer İnsan mı?</title>
-				
-					<dc:creator>insansevmez</dc:creator>
-				
-				
-					<description>&lt;p&gt;Çocuk gelinler ve çocuk istismarları son zamanlarda teknolojinin gelişmeyisle birlikte, haber alma organlarının çeşitlenmesi ve kolaylaşması nedeniyle daha fazla gündeme gelmektedir. İnsanların bilinçlenmeye başlaması ile, bu konulara daha fazla duyarlı davranmaya başladıklarını görüyoruz. Tabiki bilinçlenen insanların yanı sıra değişmeyen hastalıklı zihniyete sahip insanlarında varlığı dünya üzerinde devam etmektedir.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Wed, 31 Jan 2018 00:00:00 +0300</pubDate>
-				<link>http://localhost:4000/cocuk-gelinlerin-sebebi-pedofililer-insanmi.html</link>
-				<guid isPermaLink="true">http://localhost:4000/cocuk-gelinlerin-sebebi-pedofililer-insanmi.html</guid>
 			</item>
 		
 	</channel>
