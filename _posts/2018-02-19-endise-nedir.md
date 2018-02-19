@@ -7,8 +7,6 @@ image: endise-nedir.jpg
 summary: "Endişe Nedir? Endişenin korku ile ilişkisi nedir?Kendini arayan insan"
 ---
 
-**Endişeyi nasıl tanımlayalım ve endişenin korku ile ilişkisi nedir?**
-
 Karşıdan karşıya geçerken bir arabanın üzerinize doğru geldiğini gördüğünüzde kalbiniz hızlı çarpmaya başlar,bakışlarınızı arabayla aranızdaki mesafeye ve yolun güvenli tarafına geçmek için daha ne kadar yürümeniz gerektiğine  odaklar,adımlarınızı hızlandırırsınız.Korkuya kapıldınız ve bu da sizi bir an önce güvenliğe ulaşmanız için harekete geçirdi.
 Ama adımlarınızı hızlandırdığınızı da karşı taraftan tam ters istikamette gelen başka arabalar olduğunu görüp  kendinizi bir anda yolun ortasında ne yöne gitmeniz gerektiğini bilmez vaziyette buluyorsunuz.
 
