@@ -1,0 +1,47 @@
+
+{% assign groups = "" %}
+{% for post in site.posts %}
+{% for grp in post.group %}
+{% assign ttags = grp | join:'|' | append:'|' %}
+{% assign groups = groups | append:ttags %}
+{% endfor %}
+{% endfor %}
+{% assign groups = groups | split:'|' | sort %}
+{% assign grps = "" %}
+{% for tag in groups %}
+	{% if tag != "" %}
+		{% if tags == "" %}
+			{% assign tags = tag | split:'|' %}
+		{% endif %}
+		{% unless tags contains tag %}
+			{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+		{% endunless %}
+	{% endif %}
+{% endfor %}
+
+{% for grp in tags %}
+{% if grp != "" %}
+<div class="sections">
+    <h2><span> {{ grp }}</span></h2>
+    <ul class="sections-posts">
+      {% assign counter = '0' %}
+      {% for linepost in site.posts %}
+        {% for mypost in linepost.group %}
+        {% if grp == mypost and counter < '5' %}
+        {% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
+            <li>
+              <h3>
+                <a href="{{ site.github.url }}{{ linepost.url }}">
+                  {{ linepost.title }}
+                  <!--<img src="{{ site.url }}{{ site.baseurl }}/images/{{ mypost.image.teaser }}">-->
+                  <!--<small>{{ mypost.date | date: "%B %-d, %Y" }}</small>-->
+                </a>
+              </h3>
+            </li>
+            {% endif %}
+        {% endfor %}
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+  {% endfor %}

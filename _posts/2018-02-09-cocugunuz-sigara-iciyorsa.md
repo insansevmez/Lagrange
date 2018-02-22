@@ -5,6 +5,7 @@ author: "insansevmez"
 tags: [çocuğunuzun sigara içmesi, sigaraya başlama yaşı, sigara bırakma,insansevmez]
 image: sigara2.jpg
 summary: "Sigaraya Başlama Yaşı Her Yıl Düşmektedir Sigaranın Nasıl Anlatılmalıdır? Çocuğunuzun Sigaraya Başladığını Öğrenince Ne Yapmalısınız?"
+group: [Toplumsal Sorunlar]
 ---
 
 Bugün 9 Şubat Dünya Sigarayı Bırakma günü ve bu güne özel bir yazı ile karşınızdayım. Bir çoğumuzun hayatında mutlaka sigara içen birileri vardır belki de siz içiyorsunuzdur. Sigaranın zararları konusunda sizleri TÜİK verileri ile başbaşa bırakıyorum.

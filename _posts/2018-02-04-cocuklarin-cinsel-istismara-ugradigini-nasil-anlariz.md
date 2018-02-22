@@ -5,6 +5,7 @@ author: "insansevmez"
 tags: [cinsel istismar,cocuk cinsel,tecavuz,cocuk istismar,cocuk tecavuz,istismari nasil anlarsiniz,tacizi nasil anlariz,cocuk taciz,cocuk davranisi,insansevmez]
 image: cocuk-istismar-4.jpg
 summary: "Çocukların Cinsel İstismara Uğradığını Nasıl Anlarız? İstismara uğrayan çocuğa nasıl davranmalı? Çocuk istismarını nasıl önleriz? Çocuk tecavüzlerini nasıl önleyebiliriz. çocuğumun cinsel istismara uğradığını nasıl anlarım. cinsel istismarda delil"
+group: [Toplumsal Sorunlar]
 ---
 
 Son zamanlar medyada sürekli karşılaştığımız çocuk istismarları haberleri çok korkunç boyutlara ulaştı. Cinsel istismara uğrayan çocukların yaşadıklarını sosyal medyanın desteği ile ortaya çıkaran pekçok haber ile hergün sarsılıyoruz. Bu insan olamayan canlı türlerinin pis ellerini çocuklarımızın üzerinden çekmeleri için, daha çok duyarlı ve bilinçi olmalıyız.

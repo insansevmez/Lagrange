@@ -5,6 +5,7 @@ author: "insansevmez"
 tags: [cocuk gelin,pedofili,subyancilik,cocuk evliligi,insan,tecavuz,gebe,tuik ocouk gelin,tuik cocuk evlilik,cocuk istismar,insansevmez]
 image: child-bride.jpg
 summary: "Çocuk gelinlerin sebebi pedofili hastalarımı. Çocuk gelinlerin ve istismarların önüne nasıl geçilir. Çocuk evliliklerinde ve anne ölümlerindeki rakamlar nelerdir"
+group: [Toplumsal Sorunlar]
 ---
 
 Çocuk gelinler ve çocuk istismarları son zamanlarda teknolojinin gelişmeyisle birlikte, haber alma organlarının çeşitlenmesi ve kolaylaşması nedeniyle daha fazla gündeme gelmektedir. İnsanların bilinçlenmeye başlaması ile, bu konulara daha fazla duyarlı davranmaya başladıklarını görüyoruz. Tabiki bilinçlenen insanların yanı sıra değişmeyen hastalıklı zihniyete sahip insanlarında varlığı dünya üzerinde devam etmektedir. 

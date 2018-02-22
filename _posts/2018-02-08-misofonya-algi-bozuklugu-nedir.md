@@ -5,6 +5,7 @@ author: "insansevmez"
 tags: [Misofonya Nedir, Misofonya Tedavisi,misofonya hastaligi,misofonya rahatsizligi,algı bozuklugu,asabiyet,yuksek sesler,insansevmez]
 image: misofonya.jpg
 summary: "Misofonya Nedir. Misofonya Tedavisi Misofonya hastalığı / rahatsızlığı bulunan bir kişinin karşılaştığı belirtiler. Misofonya hastalığı / rahatsızlığı bulunanlar nasıl rahatlayabilir? Misofonya hastalığı / rahatsızlığı nasıl tedavi edilir? Geceleri yüksek sesle müzik dinlemekten rahatsız olmak Sabahları alarm sesi ile uyandığında asabi olmak Küçük çocukların çıkardığı seslerden aşırı etkilenmek Trafiğin oluşturduğu ses kirliliği"
+group: [Psikoloji]
 ---
 
 İnsan psikolojisini etkileyen bazen somut bazende soyut etkenler olabilmektedir. Psikolojiyi olumsuz etkileyen etkenlerden bir tanesi de rahatsız edici seslerdir. Aşırı yüksek sesler çoğu insanı rahatsız etmektedir. Fakat bazı insanlar hafif seslerdende rahatsız olmaktadırlar. Bu rahatsızlık kronikleştiği durumlarda Misofonya (Misophonia) adı verilen algı bozukluğuna dönüşmektedir. Misofonya bazı ince, ritmik ve hafif seslere karşın aşırı hassas olma durumudur.

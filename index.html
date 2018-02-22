@@ -20,11 +20,6 @@ title: Home
 </div>
 {% endfor %}
 
-{% if site.data.settings.development %}
-close-advertisements
-{% else %}
-{% include advertisements.html %}
-{% endif %}
 
 <!-- Pagination links -->
 {% if paginator.total_pages > 1 %}
@@ -42,3 +37,12 @@ close-advertisements
 </div>
 {% endif %}
 
+
+{% include section-posts.html %}
+
+
+{% if site.data.settings.development %}
+close-advertisements
+{% else %}
+{% include advertisements.html %}
+{% endif %}

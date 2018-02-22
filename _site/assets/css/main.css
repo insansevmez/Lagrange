@@ -153,7 +153,7 @@ hr {
   margin-top:3px;
   margin-bottom: 1rem;
   color: #9a9a9a;
-  font-family: 'Quattrocento Sans', sans-serif;
+  font-family: 'Slabo 27px', sans-serif;
   font-size:0.8rem;
 }
 
@@ -165,15 +165,87 @@ hr {
 
 .related {
   padding-bottom: 2rem;
+  
 }
 
+.related h2{
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  line-height: 1;
+  margin-top: 0;
+  margin-bottom: 26px;
+  border-bottom: 2px solid #2b5797;
+  padding-bottom: 10px;
+  
+}
+.related h2 span{
+  background-color: #2b5797;
+  padding: 10px 16px;
+  color: white;
+}
 .related-posts {
   padding-left: 0px;
   list-style: none;
 }
 
+.related-posts h3{
+  font-size: 15px;  
+  line-height: normal;
+}
+
 .related-posts a {
   text-decoration: none;
+  color: #999;
+}
+
+.related-posts a:hover{
+  text-decoration: none;
+  color:#343434;
+}
+
+/*
+Sections
+*/
+
+
+.sections {
+  padding-bottom: 2rem;
+  
+}
+
+.sections h2{
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  line-height: 1;
+  margin-top: 0;
+  margin-bottom: 26px;
+  border-bottom: 2px solid #2b5797;
+  padding-bottom: 10px;
+  
+}
+.sections h2 span{
+  background-color: #2b5797;
+  padding: 10px 16px;
+  color: white;
+}
+.sections-posts {
+  padding-left: 0px;
+  list-style: none;
+}
+
+.sections-posts h3{
+  font-size: 15px;  
+  line-height: normal;
+}
+
+.sections-posts a {
+  text-decoration: none;
+  color: #999;
+}
+
+.sections-posts a:hover{
+  text-decoration: none;
+  color:#343434;
 }
 
 /*
@@ -184,6 +256,7 @@ hr {
   overflow: hidden;
   font-family: 'Quattrocento Sans', sans-serif;
   text-align: center;
+  margin-bottom: 60px;
 }
 
 .pagination a {

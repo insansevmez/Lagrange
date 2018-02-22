@@ -5,6 +5,7 @@ author: "insansevmez"
 tags: [erkek çocuk istismar,erkek çocuk cinsel istismar,çocuk istismarı,cinsel istismar,istismar aileler,pedofili,insansevmez]
 image: boy-abuse3.jpg
 summary: "Erkek Çocuklar da Cinsel İstismara Uğruyor, erkek çocuklar ve istismar,Alileler istismarı Şikayet Etmiyor Yada Vazgeçiyor,Türkiye Psikiyatri Derneği araştırması"
+group: [Toplumsal Sorunlar]
 ---
 
 Cinsel istismar haberlerinin her geçen gün arttığının farkında olmalısınız. Gerek sosyal medyada gerek haberlerde birçok istismar olayına şahit oluyoruz. Uzmanların yaptıkları araştırmalarda cinsel istismar oranları ülkemizde son 10 yılda %125 artış gösterdiği belirtiliyor. Cinsel istismara maruz kalan çocukların yaş dağılımları incelendiğinde; %30'unun 2-5 yaş, %40'ının 6-10 yaş, %30'unun 11-17 yaş gruplarında olduğu ortaya çıkmıştır. Bu durum şunu gösteriyor ki istismara uğrayan çocukların %70'i küçük yaş gruplarında olduğudur.

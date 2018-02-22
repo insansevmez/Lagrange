@@ -5,6 +5,7 @@ author: "insansevmez"
 tags: [sevgi,sevgiye sahip,sahip,insan,evlilik,aşık olmak,tutulmak,sahip olmak,aile,insansevmez]
 image: sevgi.jpg
 summary: "Çoğu kez aşk olarak belirtilen şey,sevme beceriksizliğini ve sevememeyi gizlemek için kullanılan maskeden başka bir şey değildir.Bu konuda hala aydınlatılmamış olan bir konuda,anne ve babaların çocuklarına karşı duydukları sevgidir.Batı kültürlerinin son iki yüz yıllık tarihinde sık sık rastlanan,çocuklara karşı fiziksel ve ruhsal olarak kötü davranma,eziyet etme ve dayak atma gibi olayların ,giderek sadizme dek varması öylesine korkunçtur ki,insanın sevgi dolu anne babaların yalnızca bir istisna olduğuna inanası geliyor."
+group: [Psikoloji]
 ---
 
 Sevgiye sahip olunabilir mi? Eğer bu olabilseydi sevginin maddesel bir biçim alması ve saklabilmesi gerekirdi.Ama gerçek şudur ki sevgi böyle bir **"şey"** değildir.Sevgi bir soyutlamadır.

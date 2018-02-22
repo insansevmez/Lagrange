@@ -5,7 +5,7 @@ author: "insansevmez"
 tags: [iyi insan,kotu insan,soykirim,katil,isyeri,calismak,trafik,toplu tasima,insansevmez]
 image: goodandbadpeople.jpg
 summary: "Soykırıma sebep olan insanlar, çocuklarını ve eşini öldüren katil kocalar. İyi ve Kötü insanların ayrımı"
-section: "insan"
+group: [İnsanların Dünyası]
 ---
 
 İyi ve Kötü insan!

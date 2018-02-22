@@ -5,6 +5,7 @@ author: "insansevmez"
 tags: [endişe,korku,yakalanma,şaşırma,tehlike,dürtü,insansevmez]
 image: endise-nedir.jpg
 summary: "Endişe Nedir? Endişenin korku ile ilişkisi nedir?Kendini arayan insan"
+group: [Psikoloji]
 ---
 
 Karşıdan karşıya geçerken bir arabanın üzerinize doğru geldiğini gördüğünüzde kalbiniz hızlı çarpmaya başlar,bakışlarınızı arabayla aranızdaki mesafeye ve yolun güvenli tarafına geçmek için daha ne kadar yürümeniz gerektiğine  odaklar,adımlarınızı hızlandırırsınız.Korkuya kapıldınız ve bu da sizi bir an önce güvenliğe ulaşmanız için harekete geçirdi.
