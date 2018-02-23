@@ -14,7 +14,9 @@ Elektra oyunu Sophokles tarafından yazılmıştır. **Sophokles** MÖ 496 yıl�
 ![{{page.title}}]({{ site.url }}{{ site.baseurl }}/assets/img/elektra1.jpg){: .align-center}
 
 Elektra, ölen babasının hüznü içinde yaşayan bir kızın unutulmaz hikayesini anlatan bir oyundur. Hikâyede Elektra adlı kız, babası Miken kralı ve Sparta Kralı Menelaos’un büyük kardeşi Agememnon’un annesi tarafından öldürülmesi ve aşığı Aigisthos ile birlikte sarayı yönetmesi üzerine durmaksızın ağlamakta ve annesine kin beslemektedir. Bu durumdan pek hoşnut olmayan annesi Klytaimnestra, Elektra’ya çeşitli kısıtlamalar getirir ve ağlamasının devam etmesi takdirinde onu uzaklara göndermekle tehdit eder. Elektra babasının öcünü almak amacıyla planladığı tek şey, yıllar önce annesinin gazabına uğramaktan son anda kurtardığı ve başka bir bölgede yaşaması için gönderdiği kardeşi Orestes’dir. Ancak daha sonra kardeşinin bir yarışmada kaza geçirip öldüğünü öğrenir.
+
 {% include advertisements-word.html %} 
+
 Kız kardeşi Khrysothemis ile yaptıkları planlar suya düşmüştür çünkü son umutları Orestes, onları yalnız bırakmıştır. Babasına çok düşkün olan Elektra, böyle bir yenilgiyi kabullenemeyip annesine saldırmak ister fakat kız kardeşi yapamayacağını düşünür ve izin vermez.Daha sonra Orestes saraya, annesi Klytaimnestra’yı ve aşığı Aigisthos’u öldürmek için gizlice geri döner.Kendisinin bir yarışmada öldüğünün haberini daha önceden saraya ilettiği için Orestes küllerini getireceğini bildirerek saraya rahatça girer. 
 
  ![{{page.title}}]({{ site.url }}{{ site.baseurl }}/assets/img/elektra2.jpg){: .align-center}
