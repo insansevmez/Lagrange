@@ -2,7 +2,7 @@
 layout: post
 title: "Endişe Nedir?"
 author: "insansevmez"
-tags: [endişe,korku,yakalanma,şaşırma,tehlike,dürtü,insansevmez]
+tags: [endişe,korku,yakalanma,şaşırma,tehlike,dürtü,psikoloji]
 image: endise-nedir.jpg
 summary: "Endişe Nedir? Endişenin korku ile ilişkisi nedir?Kendini arayan insan"
 group: [Psikoloji]

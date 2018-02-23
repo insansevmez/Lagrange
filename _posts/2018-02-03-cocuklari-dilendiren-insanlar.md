@@ -2,7 +2,7 @@
 layout: post
 title: "Çocukları Dilendiren İnsanlar"
 author: "insansevmez"
-tags: [cocuk dilenci,mendil satan,dilenci mendil,mendil cocuk,mendil suriye,dilenci cetesi,multeci cocuklar,cocuk kiralık,suriyeli cocuk,suriye dilenci,insansevmez]
+tags: [cocuk dilenci,mendil satan,dilenci mendil,mendil cocuk,mendil suriye,dilenci cetesi,multeci cocuklar,cocuk kiralık,suriyeli cocuk,suriye dilenci,toplumsal sorunlar]
 image: syria-child-2.jpg
 summary: "Çocukları dilendiren insanlar kimler. Suriyeli anne babalar çocuklarını dilendiriyor. Dilenci çetelerine düşen suriyeli çocuklar"
 group: [Toplumsal Sorunlar]

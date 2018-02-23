@@ -2,7 +2,7 @@
 layout: post
 title: "Çocuk Gelinlerin Sebebi Pedofililer İnsan mı?"
 author: "insansevmez"
-tags: [cocuk gelin,pedofili,subyancilik,cocuk evliligi,insan,tecavuz,gebe,tuik ocouk gelin,tuik cocuk evlilik,cocuk istismar,insansevmez]
+tags: [cocuk gelin,pedofili,subyancilik,cocuk evliligi,insan,tecavuz,gebe,tuik ocouk gelin,tuik cocuk evlilik,cocuk istismar,toplumsal sorunlar]
 image: child-bride.jpg
 summary: "Çocuk gelinlerin sebebi pedofili hastalarımı. Çocuk gelinlerin ve istismarların önüne nasıl geçilir. Çocuk evliliklerinde ve anne ölümlerindeki rakamlar nelerdir"
 group: [Toplumsal Sorunlar]

@@ -2,7 +2,7 @@
 layout: post
 title: "Uyuşturucu Madde Kullanım Yaşı"
 author: "insansevmez"
-tags: [uyusturucu madde bagimliligi,sentetik uyusturucu maddeler,bonzai kullanim yasi, madde kullanimi, uyusturucu madde tedavisi ,insansevmez]
+tags: [uyusturucu madde bagimliligi,sentetik uyusturucu maddeler,bonzai kullanim yasi, madde kullanimi, uyusturucu madde tedavisi ,toplumsal sorunlar]
 image: drugs.jpg
 summary: "Bonzai Kullanım Yaşı 10'a Düştü ve Son 5 Yılda 13 Kat Arttı. Sentetik Uyuşturucu Madde Tehlikesi Artıyor.Çocuğunuzun Uyuşturucu Bağımlısı Olduğunu Nasıl anlarsınız? Uyuşturucu Madde Kullanımı ve Etkileri nelerdir. Madde Kullanımının Önlenmesi ve Tedavi Edilmesi"
 group: [Toplumsal Sorunlar]

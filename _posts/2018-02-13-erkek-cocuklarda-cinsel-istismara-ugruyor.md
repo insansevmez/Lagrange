@@ -2,7 +2,7 @@
 layout: post
 title: "Erkek Çocuklar da Cinsel İstismara Uğruyor"
 author: "insansevmez"
-tags: [erkek çocuk istismar,erkek çocuk cinsel istismar,çocuk istismarı,cinsel istismar,istismar aileler,pedofili,insansevmez]
+tags: [erkek çocuk istismar,erkek çocuk cinsel istismar,çocuk istismarı,cinsel istismar,istismar aileler,pedofili,toplumsal sorunlar]
 image: boy-abuse3.jpg
 summary: "Erkek Çocuklar da Cinsel İstismara Uğruyor, erkek çocuklar ve istismar,Alileler istismarı Şikayet Etmiyor Yada Vazgeçiyor,Türkiye Psikiyatri Derneği araştırması"
 group: [Toplumsal Sorunlar]

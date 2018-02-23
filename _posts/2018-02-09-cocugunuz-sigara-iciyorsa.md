@@ -2,7 +2,7 @@
 layout: post
 title: "Çocuğunuz Sigara İçiyorsa!"
 author: "insansevmez"
-tags: [çocuğunuzun sigara içmesi, sigaraya başlama yaşı, sigara bırakma,insansevmez]
+tags: [çocuğunuzun sigara içmesi, sigaraya başlama yaşı, sigara bırakma,toplumsal sorunlar]
 image: sigara2.jpg
 summary: "Sigaraya Başlama Yaşı Her Yıl Düşmektedir Sigaranın Nasıl Anlatılmalıdır? Çocuğunuzun Sigaraya Başladığını Öğrenince Ne Yapmalısınız?"
 group: [Toplumsal Sorunlar]

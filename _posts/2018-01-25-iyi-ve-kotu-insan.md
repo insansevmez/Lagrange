@@ -2,10 +2,10 @@
 layout: post
 title: "İyi ve Kötü İnsan!"
 author: "insansevmez"
-tags: [iyi insan,kotu insan,soykirim,katil,isyeri,calismak,trafik,toplu tasima,insansevmez]
+tags: [iyi insan,kotu insan,soykirim,katil,isyeri,calismak,trafik,toplu tasima,psikoloji]
 image: goodandbadpeople.jpg
 summary: "Soykırıma sebep olan insanlar, çocuklarını ve eşini öldüren katil kocalar. İyi ve Kötü insanların ayrımı"
-group: [İnsanların Dünyası]
+group: [Psikoloji]
 ---
 
 İyi ve Kötü insan!

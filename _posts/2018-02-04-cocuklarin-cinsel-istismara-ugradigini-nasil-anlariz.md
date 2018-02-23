@@ -2,7 +2,7 @@
 layout: post
 title: "Çocukların Cinsel İstismara Uğradığını Nasıl Anlarız?"
 author: "insansevmez"
-tags: [cinsel istismar,cocuk cinsel,tecavuz,cocuk istismar,cocuk tecavuz,istismari nasil anlarsiniz,tacizi nasil anlariz,cocuk taciz,cocuk davranisi,insansevmez]
+tags: [cinsel istismar,cocuk cinsel,tecavuz,cocuk istismar,cocuk tecavuz,istismari nasil anlarsiniz,tacizi nasil anlariz,cocuk taciz,cocuk davranisi,toplumsal sorunlar]
 image: cocuk-istismar-4.jpg
 summary: "Çocukların Cinsel İstismara Uğradığını Nasıl Anlarız? İstismara uğrayan çocuğa nasıl davranmalı? Çocuk istismarını nasıl önleriz? Çocuk tecavüzlerini nasıl önleyebiliriz. çocuğumun cinsel istismara uğradığını nasıl anlarım. cinsel istismarda delil"
 group: [Toplumsal Sorunlar]
