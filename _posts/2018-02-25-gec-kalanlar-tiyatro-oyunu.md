@@ -3,7 +3,7 @@ layout: post
 title: "Geç Kalanlar Tiyatro Oyunu"
 author: "insansevmez"
 tags: [geç kalanlar tiyatro oyunu,geç kalanlar tiyatro,geç kalanlar oyunu yorum,defne gürmen,elçin atamgüç,zafer kırşan,tiyatro oyunu]
-image: gec-kalanlar-tiyatro-oyunu.jpg
+image: gec-kalanlar.jpg
 summary: "Geç Kalanlar Tiyatro Oyunu İncelemesi,İstanbul Şehir Tiyatrosu,İstanbul Devlet Tiyatrosu"
 group: [Tiyatro]
 ---
@@ -14,7 +14,7 @@ group: [Tiyatro]
 
 Yabancı gibi görünen bu kadının, çiftin yaşadıklarını, daha sonra hissettikleri ile ilgili birçok bilgiye sahip olması, erkeğin onunla konuşmaya ve ondan bir şeyler öğrenme isteğine neden oluyor. Oyunun ilk perdesi kadının ve erkeğin, kadın erkek ilişkileri üzerine zaman zaman eğlenceli zaman zaman hüzünlü ancak izleyicinin kendi hayatında örnekleyebileceği tespitlerle sürüyor. İzleyiciler ilk perdede kadının evi neden terk ettiğinin detaylarını öğreniyorlar. 
 
- ![{{page.title}}]({{ site.url }}{{ site.baseurl }}/assets/img/gec-kalanlar.jpg){: .align-center}
+ ![{{page.title}}]({{ site.url }}{{ site.baseurl }}/assets/img/gec-kalanlar2.jpg){: .align-center}
 
 Oyunun ikinci perdesinden itibaren yabancı kadın evi terk eden kadın ile tanışıp bu sefer olayları kadının gözünden görüyoruz. Çiftin ayrılığına neden olan son gece yaşadıkları olayları izleyicinin üzerinde şok etkisi yaratacak vurucu bir finalle yapıyor. Oyunun konusundaki bilgiye bakacak olursak **Yaşadığımız her günü güzel bir güne dönüştürmek varken biz sadece erteleriz.** Oyunda gerçekten kendi hayatınızda yakalayabileceğiniz bir farkındalık bulacaksınız. 
 
