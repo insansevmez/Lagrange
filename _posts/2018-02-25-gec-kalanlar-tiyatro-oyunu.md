@@ -3,7 +3,7 @@ layout: post
 title: "Geç Kalanlar Tiyatro Oyunu"
 author: "insansevmez"
 tags: [geç kalanlar tiyatro oyunu,geç kalanlar tiyatro,geç kalanlar oyunu yorum,defne gürmen,elçin atamgüç,zafer kırşan,tiyatro oyunu]
-image: gec-kalanlar.jpg
+image: gec-kalanlar1.jpg
 summary: "Geç Kalanlar Tiyatro Oyunu İncelemesi,İstanbul Şehir Tiyatrosu,İstanbul Devlet Tiyatrosu"
 group: [Tiyatro]
 ---
