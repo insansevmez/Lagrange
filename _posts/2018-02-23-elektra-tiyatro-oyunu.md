@@ -2,7 +2,7 @@
 layout: post
 title: "Elektra Tiyatro Oyunu"
 author: "insansevmez"
-tags: [elektra tiyatro,elektra oyun incelemesi,elektra,elektra sophokles,istanbul devlet tiyatrosu,cevahir tiyatro,avrupa tiyatro oyunu,sophokles,Kadınlar, Aias, Kral Oidipus, Oidipus Kolonos'ta, Antigone, Elektra, Filoktetes]
+tags: [elektra tiyatro,elektra oyun incelemesi,elektra,elektra sophokles,istanbul devlet tiyatrosu,cevahir tiyatro,avrupa tiyatro oyunu,sophokles,Kadınlar, Aias, Kral Oidipus, Oidipus Kolonos'ta, Antigone, Elektra, Filoktetes,tiyatro oyunu]
 image: elektra.jpg
 summary: "Elektra Tiyatro Oyunu İncelemesi,Sophokles Kimdir,İstanbul Devlet Tiyatrosu,Sophlokes Elektra Oyunu"
 group: [Tiyatro]
