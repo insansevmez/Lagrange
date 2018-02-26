@@ -7,37 +7,6 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Geç Kalanlar Tiyatro Oyunu</title>
-				
-					<dc:creator>insansevmez</dc:creator>
-				
-				
-					<description>&lt;p&gt;İstanbul Şehir Tiyatrolarında sahnelenen Pervin Ünalp’ın yazdığı Geç Kalanlar oyununu Gaziosmanpaşa sahnesinde izledim. Daha önce Ankara Devlet Tiyatrosu ve Antalya Büyükşehir Belediye Tiyatrosu tarafından sahnelenmiş. Oyun ilişkileri bir aldatma sonrasında bitme noktasına gelen bir çiftin başından geçenleri ve onları bu ayrılığa sürükleyen nedenleri ve arkasında yatan gerçekleri izleyici üzerinde bıraktığı sert etkiyle konu alıyor. Oyun erkek karakterin bir evin içindeki koltukta uyumaya çalışırken tanımadığı bir kadının eve gelmesiyle başlıyor.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Sun, 25 Feb 2018 00:00:00 +0300</pubDate>
-				<link>http://localhost:4000/gec-kalanlar-tiyatro-oyunu.html</link>
-				<guid isPermaLink="true">http://localhost:4000/gec-kalanlar-tiyatro-oyunu.html</guid>
-			</item>
-		
-			<item>
-				<title>Elektra Tiyatro Oyunu</title>
-				
-					<dc:creator>insansevmez</dc:creator>
-				
-				
-					<description>&lt;p&gt;İstanbul Devlet Tiyatrolarında sahnelenen Elektra oyununu Cevahir Sahnesi’nde izledim. Hafta içi olmasına rağmen salon tamamen doluydu. Oyun bilgilerine şöyle bir bakalım. 
-Elektra oyunu Sophokles tarafından yazılmıştır. &lt;strong&gt;Sophokles&lt;/strong&gt; MÖ 496 yılında Atina dışındaki Kolonos’ta doğmuştur. Antik Yunan’ın en büyük 3 Tragedya (&lt;strong&gt;trajedi,ağlatı&lt;/strong&gt;) yazarlarından biridir. Suda’ya &lt;a href=&quot;https://tr.wikipedia.org/wiki/Suda&quot;&gt;(Suda yada Souda Suidas adlı bir yazar tarafından 10. yüzyılda Bizans’ta yazılmış Antik Akdeniz dünyası ile ilgili bilgi veren dev ansiklopedidir.)&lt;/a&gt; göre 123 yazılmış oyunu vardır. Bunlardan yanlızca Troyalı &lt;strong&gt;Kadınlar, Aias, Kral Oidipus, Oidipus Kolonos’ta, Antigone, Elektra, ve Filoktetes&lt;/strong&gt; oyunları günümüze kadar ulaşmıştır.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Fri, 23 Feb 2018 00:00:00 +0300</pubDate>
-				<link>http://localhost:4000/elektra-tiyatro-oyunu.html</link>
-				<guid isPermaLink="true">http://localhost:4000/elektra-tiyatro-oyunu.html</guid>
-			</item>
-		
-			<item>
 				<title>Endişe Nedir?</title>
 				
 					<dc:creator>insansevmez</dc:creator>
@@ -159,6 +128,36 @@ Eğer sevgi &lt;strong&gt;“sahip olmak”&lt;/strong&gt; türünde ele alınac
 				<pubDate>Sun, 04 Feb 2018 00:00:00 +0300</pubDate>
 				<link>http://localhost:4000/cocuklarin-cinsel-istismara-ugradigini-nasil-anlariz.html</link>
 				<guid isPermaLink="true">http://localhost:4000/cocuklarin-cinsel-istismara-ugradigini-nasil-anlariz.html</guid>
+			</item>
+		
+			<item>
+				<title>Çocukları Dilendiren İnsanlar</title>
+				
+					<dc:creator>insansevmez</dc:creator>
+				
+				
+					<description>&lt;p&gt;Dünya üzerinde açlık ve savaşlar nedeniyle doğup büyüdükleri yerlerden göç eden milyonlarca insan, çok zor şartlarda hayatlarını devam ettirmeye çalışıyorlar. Bu zorlu mücadele sırasında en çok acı çekenler tabiki çocuklar oluyor. Hergün sokaklarda okul çağında olmayacak kadar küçük çocuklar dilendiriliyor. Kimisi bir kaldırım taşının üzerinde çıplak ayaklarıyla oturuyor, kimisi elinde bir mızıka metro girişinde ezberleyebildiği bir iki şarkıyı çalmaya çalışıyor.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sat, 03 Feb 2018 00:00:00 +0300</pubDate>
+				<link>http://localhost:4000/cocuklari-dilendiren-insanlar.html</link>
+				<guid isPermaLink="true">http://localhost:4000/cocuklari-dilendiren-insanlar.html</guid>
+			</item>
+		
+			<item>
+				<title>Kadına Şiddet Uygulayan Canlı Türü</title>
+				
+					<dc:creator>insansevmez</dc:creator>
+				
+				
+					<description>&lt;p&gt;İnsan sevmez olarak, kadına şiddetin sadece bir kadının sorunu olmadığına, küresel bir sorun olduğuna inanıyorum. Çünkü kadına şiddet tüm dünyada salgın bir hastalık şeklinde devam ediyor. Dünya Sağlık Örgütü &lt;a href=&quot;http://www.who.int/mediacentre/factsheets/fs239/en/&quot;&gt;Kasım-2017 raporunda&lt;/a&gt; kadın cinayetlerinin %35’i birlikte oldukları erkekler tarafından işlendiğini belirtiyor.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Fri, 02 Feb 2018 00:00:00 +0300</pubDate>
+				<link>http://localhost:4000/kadina-siddet-uygulayan-canli-turu.html</link>
+				<guid isPermaLink="true">http://localhost:4000/kadina-siddet-uygulayan-canli-turu.html</guid>
 			</item>
 		
 	</channel>
