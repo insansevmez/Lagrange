@@ -7,6 +7,21 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Ölmek İsteyen Yayalar</title>
+				
+					<dc:creator>insansevmez</dc:creator>
+				
+				
+					<description>&lt;p&gt;İlk okuldaki trafik derslerinden tanıdığımız bir sözü hatırlatmak istiyorum; &lt;strong&gt;“Trafik kurallarına uyalım uymayanları uyaralım”&lt;/strong&gt;. Bu söz daha ilk okulda bizlere, trafikte hayatımızın kararmaması için kurallara uymamız gerektiğini tembihler. Son yıllarda trafik kazalarındaki ölümlerin sayısı, bu sözü kimsenin hatırlamadığını yada &lt;strong&gt;“bana bir şey olmaz”&lt;/strong&gt; diye kendilerinin doğa üstü bir ölümsüz olduğunu zannettiklerini gösteriyor. Ne yazık ki öldüğünüze göre ölümsüz değilsiniz. Bu yazıda hatalı sürücüleri değil &lt;strong&gt;ölmek isteyen yayaları&lt;/strong&gt; inceleyeceğim. Evet ölmek istiyorlar çünkü bunun başka bir açıklaması olamaz. İnternette &lt;a href=&quot;https://www.google.com.tr/search?q=kar%C5%9F%C4%B1dan+kar%C5%9F%C4%B1ya+ge%C3%A7erken+%C3%B6len&amp;amp;rlz=1C1CHFX_enTR761TR761&amp;amp;oq=kar%C5%9F%C4%B1dan+kar%C5%9F%C4%B1ya+ge%C3%A7erken+%C3%B6len&amp;amp;aqs=chrome..69i57j0.1448j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8&quot;&gt;karşıdan karşıya geçerken ölen&lt;/a&gt; diye arama yaptığınızda sayfalarca haber görebilirsiniz. Elbette sürücülerin hatalarını yok saymıyorum burada dikkat çekmek istediğim nokta yayaların &lt;strong&gt;ölümcül hataları&lt;/strong&gt;.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 26 Feb 2018 00:00:00 +0300</pubDate>
+				<link>http://localhost:4000/olmek-isteyen-yayalar.html</link>
+				<guid isPermaLink="true">http://localhost:4000/olmek-isteyen-yayalar.html</guid>
+			</item>
+		
+			<item>
 				<title>Endişe Nedir?</title>
 				
 					<dc:creator>insansevmez</dc:creator>
@@ -143,21 +158,6 @@ Eğer sevgi &lt;strong&gt;“sahip olmak”&lt;/strong&gt; türünde ele alınac
 				<pubDate>Sat, 03 Feb 2018 00:00:00 +0300</pubDate>
 				<link>http://localhost:4000/cocuklari-dilendiren-insanlar.html</link>
 				<guid isPermaLink="true">http://localhost:4000/cocuklari-dilendiren-insanlar.html</guid>
-			</item>
-		
-			<item>
-				<title>Kadına Şiddet Uygulayan Canlı Türü</title>
-				
-					<dc:creator>insansevmez</dc:creator>
-				
-				
-					<description>&lt;p&gt;İnsan sevmez olarak, kadına şiddetin sadece bir kadının sorunu olmadığına, küresel bir sorun olduğuna inanıyorum. Çünkü kadına şiddet tüm dünyada salgın bir hastalık şeklinde devam ediyor. Dünya Sağlık Örgütü &lt;a href=&quot;http://www.who.int/mediacentre/factsheets/fs239/en/&quot;&gt;Kasım-2017 raporunda&lt;/a&gt; kadın cinayetlerinin %35’i birlikte oldukları erkekler tarafından işlendiğini belirtiyor.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Fri, 02 Feb 2018 00:00:00 +0300</pubDate>
-				<link>http://localhost:4000/kadina-siddet-uygulayan-canli-turu.html</link>
-				<guid isPermaLink="true">http://localhost:4000/kadina-siddet-uygulayan-canli-turu.html</guid>
 			</item>
 		
 	</channel>
