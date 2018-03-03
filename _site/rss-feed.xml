@@ -7,6 +7,21 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Alışveriş Çılgınlığı</title>
+				
+					<dc:creator>insansevmez</dc:creator>
+				
+				
+					<description>&lt;p&gt;Biz insanlar doğduktan sonra ebeveynlerimiz tarafından büyütülürüz daha sonra hayata karşı yaşam savaşı veririz. Yaşam savaşı dedim çünkü yaşayabilmemiz için dünyamızda gerekli temel ihtiyaçlarımız bulunmaktadır. Yiyecek, giyim, barınma ve günümüzde bu ihtiyaçlara bir de ulaşım eklenmiştir. Temel ihtiyaçlarımız karşılamak için çalışmak zorundayız. Tabiki bir yerlerden zengin olamadıysak. Zengin değilsek çalışmaya ve kazandığımız para ile hayatımıza devam etmeliyiz. Gün geçtikçe hayata karşı en büyük zorluğumuz hayat pahalılığı olmaya başladı. Peki bu hayat pahalılığına karşı neler yapıyoruz? Sadece ihtiyaçlarımızı mı alıyoruz yoksa kendimize ihtiyaç yaratıp öylemi alıyoruz. Evet bir çoğumuz ihtiyaç yaratıp o şekilde harcama yapıyoruz. Tabiki kırk kanaat geçinen, ayağını yorganına göre uzatanları tenzih edip yazının hedefindeki insanlara yöneliyorum.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sat, 03 Mar 2018 00:00:00 +0300</pubDate>
+				<link>http://localhost:4000/alisveris-cilginligi.html</link>
+				<guid isPermaLink="true">http://localhost:4000/alisveris-cilginligi.html</guid>
+			</item>
+		
+			<item>
 				<title>Sorgulamayan Canlı Türü İnsan</title>
 				
 					<dc:creator>insansevmez</dc:creator>
@@ -143,21 +158,6 @@ Eğer sevgi &lt;strong&gt;“sahip olmak”&lt;/strong&gt; türünde ele alınac
 				<pubDate>Tue, 06 Feb 2018 00:00:00 +0300</pubDate>
 				<link>http://localhost:4000/uyusturucu-kullanim-yasi.html</link>
 				<guid isPermaLink="true">http://localhost:4000/uyusturucu-kullanim-yasi.html</guid>
-			</item>
-		
-			<item>
-				<title>Çocukların Cinsel İstismara Uğradığını Nasıl Anlarız?</title>
-				
-					<dc:creator>insansevmez</dc:creator>
-				
-				
-					<description>&lt;p&gt;Son zamanlar medyada sürekli karşılaştığımız çocuk istismarları haberleri çok korkunç boyutlara ulaştı. Cinsel istismara uğrayan çocukların yaşadıklarını sosyal medyanın desteği ile ortaya çıkaran pekçok haber ile hergün sarsılıyoruz. Bu insan olamayan canlı türlerinin pis ellerini çocuklarımızın üzerinden çekmeleri için, daha çok duyarlı ve bilinçi olmalıyız.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Sun, 04 Feb 2018 00:00:00 +0300</pubDate>
-				<link>http://localhost:4000/cocuklarin-cinsel-istismara-ugradigini-nasil-anlariz.html</link>
-				<guid isPermaLink="true">http://localhost:4000/cocuklarin-cinsel-istismara-ugradigini-nasil-anlariz.html</guid>
 			</item>
 		
 	</channel>
