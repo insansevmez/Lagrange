@@ -29,7 +29,9 @@ Triangle fabrikası da diğer fabrikalar gibi kötü çalışma koşullarına sa
 **20 Binin Ayaklanması**
 
 22 Kasım 1909'da, İLGWU'ya bağlı Local 25 Sendikası, genel grev çağrısı yapar. Cooper Union binasında, grevin sakıncaları üzerine yapılan uzun tartışmaları dinledikten sonra Triangle işçisi 19 yaşındaki Clara Lemlich, kalabalığın içinden sıyrılarak şöyle seslenir: **"Ben de birkaç şey söylemek istiyorum. Anlatılanları yaşayanlardan biri olarak daha fazla susmaya sabrım yok. Hemen şu anda grev kararı alınması için oylama yapılmasını öneriyorum."** Bu sözler ayakta alkışlanır ve o gün salondan grev kararı çıkar.
+
 {% include advertisements-word.html %}
+
 25 Kasım 1909'da yaklaşık 40 bin işçiyi istihdam eden, New York ve civari, Philadelphia ve Baltimore'dan 600 gömlek fabrikasında çalışan, yüzde 80'i [kadın](https://insansevmez.com/kadina-siddet-uygulayan-canli-turu.html){:target="_blank"}, 20 bin gömlek işçisi greve çıkar. Temel talepleri, alt işveren (o dönemdeki taşeronluk) uygulamasına son verilmesi; 52 saatlik çalışma haftası; günlük ücretsiz fazla mesainin 2 saati aşmaması; ücretlerde yapılan malzeme ve elektrik bedeli kesintilerine son verilmesiydi.
 
 **En büyük kadın grevi** olarak ABD tarihinde adlandırılan grev, Şubat 1910'da sona erer. Çoğu talepleri kabul edilir. Grevden önce yüzlerce üyesi olan İLGWU'nun artık 20 bin üyesi vardır. Sadece bir şirket sözleşme imzalamayı reddeder: Triangle Gömlek Firması...
