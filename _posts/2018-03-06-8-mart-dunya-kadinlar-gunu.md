@@ -9,7 +9,7 @@ summary: "8 mart dünya kadınlar günü anlam ve önemi. dünya kadınlar gün�
 group: [İnsan Sevmez Tarihi]
 ---
 
-**Dünya Kadınlar Günü** ya da **Dünya Emekçiler Günü**, her yıl 8 Mart'ta kutlanan ve BM (Birleşmiş Milletler) tarafından 16 Aralık 1977 tarihinde kabul edilmiş uluslararası bir gündür. 
+**Dünya [Kadınlar]({{ site.url }}{{ site.baseurl }}/search?query=kadınlar){:target="_blank"} Günü** ya da **Dünya Emekçiler Günü**, her yıl 8 Mart'ta kutlanan ve BM (Birleşmiş Milletler) tarafından 16 Aralık 1977 tarihinde kabul edilmiş uluslararası bir gündür. 
 
 **8 Mart 1857**
 
@@ -67,7 +67,7 @@ Türkiye'de 8 Mart Dünya Emekçi Kadınlar Günü ilk kez 1921 yılında "Emek�
 
  80'li yılların sonlarından ve 90'lı yıllardan itibaren 8 Mart Dünya Kadınlar Günü önemi daha çok anlaşılmış ve geniş kitlelerle kutlanmaya başlanmıştır. Ancak her geçen yıl **[kadına yönelik şiddetin ve kadın cinayetlerinin](https://insansevmez.com/kadina-siddet-uygulayan-canli-turu.html){:target="_blank"}** artış göstermesi Dünya Kadınlar Günü'ne gölge düşürmektedir. 
  
- *İnsan sevmez olarak **Kadına Şiddete Hayır!** diyor ve **8 Mart Dünya Kadınlar Günü**'nüzü kutluyorum..*
+ *İnsan sevmez olarak **Kadına [Şiddete]({{ site.url }}{{ site.baseurl }}/search?query=şiddet){:target="_blank"}  Hayır!** diyor ve **8 Mart Dünya Kadınlar Günü**'nüzü kutluyorum..*
 
 *Kaynak: [Selgin Zırhlı Kaplan'ın Petrol-iş Kadın](https://petrol-is.org.tr/kadindergisi/triangle.htm){:target="_blank"}*, *[Wikipedia-Dünya Kadınlar Günü](https://gir.im/https://tr.wikipedia.org/wiki/D%C3%BCnya_Kad%C4%B1nlar_G%C3%BCn%C3%BC){:target="_blank"}*
 

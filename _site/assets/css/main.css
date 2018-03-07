@@ -572,3 +572,7 @@ th, td {
 .fa-rss-square:hover {
 	color: #ff6600;
 }
+
+#search-box{
+  width: 100%;
+}
