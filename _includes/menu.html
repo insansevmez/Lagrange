@@ -3,6 +3,7 @@
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.path }}/{{ item.url }}">{{ item.name }}</a>
     {% endfor %}
+    <a onclick="window.open('https://feedburner.google.com/fb/a/mailverify?uri=InsanSevmez', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" target="popupwindow" href="https://feedburner.google.com/fb/a/mailverify?uri=InsanSevmez">E-Posta Aboneliği</a>
   </nav>
   <nav class="social-icons">
     {% for item in site.data.settings.social %}
