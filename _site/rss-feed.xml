@@ -7,6 +7,21 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Kutuplaşmak</title>
+				
+					<dc:creator>insansevmez</dc:creator>
+				
+				
+					<description>&lt;p&gt;Türk Dil Kurumu sözlüğüne göre kutuplaşma &lt;strong&gt;“Bir toplulukta düşünce, görüş, sosyal ve siyasal konum ve tavır olarak iki karşıt grupta yoğunlaşmak.”&lt;/strong&gt; şeklinde tanımlanıyor. Peki &lt;strong&gt;topluluk&lt;/strong&gt; sizce bir kutuplaşma mıdır? Kelime anlamını kenara bırakıp insanın tarihi boyunca birçok konuda kutuplaşma içerisinde olduğunu ve bu tanımın çok basit kaldığını düşünüyorum. Öyle ki , sen zenginsin sen fakirsin, sen dindarsın sen dinsizsin, sen müslümansın sen hristiyansın, sen şu takımlısın sen bu takımlısın, sen sağcısın sen solcusun, sen şu partilisin sen bu partilisin, sen siyahsın sen beyazsın, sen kadınsın sen erkeksin, sen üstünsün sen hakirsin, sen bizdensin sen değilsin, &lt;strong&gt;ben sadece &lt;a href=&quot;http://localhost:4000/search?query=insan&quot; target=&quot;_blank&quot;&gt;insanım&lt;/a&gt; ya sen nesin?&lt;/strong&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 12 Mar 2018 00:00:00 +0300</pubDate>
+				<link>http://localhost:4000/kutuplasmak.html</link>
+				<guid isPermaLink="true">http://localhost:4000/kutuplasmak.html</guid>
+			</item>
+		
+			<item>
 				<title>8 Mart Dünya Kadınlar Günü</title>
 				
 					<dc:creator>insansevmez</dc:creator>
@@ -143,21 +158,6 @@ Eğer sevgi &lt;strong&gt;“sahip olmak”&lt;/strong&gt; türünde ele alınac
 				<pubDate>Thu, 08 Feb 2018 00:00:00 +0300</pubDate>
 				<link>http://localhost:4000/misofonya-algi-bozuklugu-nedir.html</link>
 				<guid isPermaLink="true">http://localhost:4000/misofonya-algi-bozuklugu-nedir.html</guid>
-			</item>
-		
-			<item>
-				<title>Şiddet Uygulama İsteği ve Şiddetin Nedenleri</title>
-				
-					<dc:creator>insansevmez</dc:creator>
-				
-				
-					<description>&lt;p&gt;Günlük yaşantımızda herhangi bir anda karşımıza çıkabilen yada aynı evi paylaştığımız ailemizin içinde gördüğümüz, ufacık sorunları büyütebilen, hiç kavga edilmeyecek konularda dahi kavga edebileceğimiz yapıdaki insanlardan bahsedeceğim. Hemen hemen çoğunuz bu türdeki karaktere sahip insanlarla karşılaşmışsınızdır. Bu insanların böle bir karaktere sahip olmalarını, uzmanlar bir çok etkene bağlı olabileceğini belirtiyorlar.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Wed, 07 Feb 2018 00:00:00 +0300</pubDate>
-				<link>http://localhost:4000/siddet-uygulama-istegi-ve-siddetin-nedenleri.html</link>
-				<guid isPermaLink="true">http://localhost:4000/siddet-uygulama-istegi-ve-siddetin-nedenleri.html</guid>
 			</item>
 		
 	</channel>
