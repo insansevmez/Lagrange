@@ -2,7 +2,7 @@
 layout: post
 title: "Kutuplaşmak"
 author: "insansevmez"
-tags: [kutuplaşmak,futbol holiganizm, sömürgeleşmek, ırkçılık, kast sistemi,futbolda şiddet,kutuplaşmak nedir]
+tags: [kutuplaşmak,futbol holiganizm, sömürgeleşmek, ırkçılık, kast sistemi,futbolda şiddet,kutuplaşmak nedir,toplumsal sorunlar]
 image: kutuplasmak.jpg
 summary: "Kutuplaşmak nedir? Kast Sistemi Nedir? Holiganzim Nedir? Irkçılık Nedir? Sömürgeleştirme Nedir? Futbolda Şiddet"
 group: [Toplumsal Sorunlar]
