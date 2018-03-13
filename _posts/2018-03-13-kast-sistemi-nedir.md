@@ -4,7 +4,7 @@ title: "Kast Sistemi Nedir?"
 author: "insansevmez"
 tags: [kast sistemi nedir,toplumsal sorunlar]
 image: caste-system.jpg
-summary: "Kast Sistemi Nedir?"
+summary: "Kast Sistemi Nedir? Gandi'nin Paryalara Desteği Nedir? Brahman Nedir? Ksatriyalar Nedir? Vayşiya Nedir? Sudralar Nedir? Manu Yasaları. kast sistemi özellikleri kast sistemi nedir kısaca  kast sistemi hakkında bilgi kast sistemi sınıfları kast sistemi ne demek"
 group: [Toplumsal Sorunlar]
 ---
 
