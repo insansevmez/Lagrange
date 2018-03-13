@@ -7,6 +7,22 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Kast Sistemi Nedir?</title>
+				
+					<dc:creator>insansevmez</dc:creator>
+				
+				
+					<description>&lt;p&gt;Hindistan tarihi denildiğinde aklımıza ilk gelen kast sistemidir. Hindistan’ın ve Afrika’nın bazı bölgelerinde günümüzde halen uygulanmaya devam etmektedir. İnsanların sınıflandırılarak hayatlarını devam ettirdikleri bu sistemi tanıyalım. &lt;strong&gt;“Kast”&lt;/strong&gt; kelimesi Portekizce ve İspanyolcada casta yani ırk/soy anlamına, Latincede castus saf soy anlamına gelmektedir.&lt;br /&gt;
+Kast sistemini &lt;strong&gt;“Varna”&lt;/strong&gt; ve &lt;strong&gt;“Jati”&lt;/strong&gt; olarak ikiye ayırabiliriz. Varna, kastın en üst dört tabakasını (Brahman, Kşatriya, Vayşiya ve Südralar) temsil ederek insanların toplumun hangi sınıfından olduğunu belirlerken, Jati ise insanların hangi işlerde çalışacağı, toplum içerisinde nasıl bir yaşam tarzında hayatını devam ettireceğini ve nasıl bir toplumsal, hukuki düzene göre yaşayacaklarını belirler.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 13 Mar 2018 00:00:00 +0300</pubDate>
+				<link>http://localhost:4000/kast-sistemi-nedir.html</link>
+				<guid isPermaLink="true">http://localhost:4000/kast-sistemi-nedir.html</guid>
+			</item>
+		
+			<item>
 				<title>Kutuplaşmak</title>
 				
 					<dc:creator>insansevmez</dc:creator>
@@ -143,21 +159,6 @@ Eğer sevgi &lt;strong&gt;“sahip olmak”&lt;/strong&gt; türünde ele alınac
 				<pubDate>Fri, 09 Feb 2018 00:00:00 +0300</pubDate>
 				<link>http://localhost:4000/cocugunuz-sigara-iciyorsa.html</link>
 				<guid isPermaLink="true">http://localhost:4000/cocugunuz-sigara-iciyorsa.html</guid>
-			</item>
-		
-			<item>
-				<title>Misofonya Algı Bozukluğu Nedir?</title>
-				
-					<dc:creator>insansevmez</dc:creator>
-				
-				
-					<description>&lt;p&gt;İnsan psikolojisini etkileyen bazen somut bazende soyut etkenler olabilmektedir. Psikolojiyi olumsuz etkileyen etkenlerden bir tanesi de rahatsız edici seslerdir. Aşırı yüksek sesler çoğu insanı rahatsız etmektedir. Fakat bazı insanlar hafif seslerdende rahatsız olmaktadırlar. Bu rahatsızlık kronikleştiği durumlarda Misofonya (Misophonia) adı verilen algı bozukluğuna dönüşmektedir. Misofonya bazı ince, ritmik ve hafif seslere karşın aşırı hassas olma durumudur.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Thu, 08 Feb 2018 00:00:00 +0300</pubDate>
-				<link>http://localhost:4000/misofonya-algi-bozuklugu-nedir.html</link>
-				<guid isPermaLink="true">http://localhost:4000/misofonya-algi-bozuklugu-nedir.html</guid>
 			</item>
 		
 	</channel>
