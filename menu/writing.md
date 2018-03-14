@@ -2,9 +2,9 @@
 layout: page
 title: Arşiv
 ---
+*{{ site.posts.size}} makale | {{ site.tags.size}} etiket*
 <ul class="posts">
-  {% for post in site.posts %}
-
+  {% for post in site.posts %} 
     {% unless post.next %}
       <h3>{{ post.date | date: '%Y' }}</h3>
     {% else %}
@@ -22,3 +22,4 @@ title: Arşiv
 
   {% endfor %}
 </ul>
+
