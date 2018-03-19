@@ -25,7 +25,7 @@ Ksatriya sınıfı Sanskritçede asker ve asil anlamına gelmektedir. Bu sınıf
 
 **Vayşiya (Vaishya-Vaisyalar)**
 
-Vayşiyalar ticaret ve ziraat ile uğraşmakla görevlidirler. Bütün üretim işlerinden bu sınıf sorumludur. Vaişyalar ise sadece toplumda üretim mekanizmalarını yürütmekle kalmamışlar Hint kültürünün değişik yörelere taşınmasında da etkin roller üstlenmişlerdir. Eski dönemlerde bazı hanedanların vaişyalar arasından doğduğuna inanılmaktadır. Mo­dern Hindistan tarihine damgasını vuran [Gandi]({{ site.url }}{{ site.baseurl }}/search?query=insan){:target="_blank"} de bu katmandan gelmektedir.
+Vayşiyalar ticaret ve ziraat ile uğraşmakla görevlidirler. Bütün üretim işlerinden bu sınıf sorumludur. Vaişyalar ise sadece toplumda üretim mekanizmalarını yürütmekle kalmamışlar Hint kültürünün değişik yörelere taşınmasında da etkin roller üstlenmişlerdir. Eski dönemlerde bazı hanedanların vaişyalar arasından doğduğuna inanılmaktadır. Mo­dern Hindistan tarihine damgasını vuran [Gandi]({{ site.url }}{{ site.baseurl }}/search?query=gandi){:target="_blank"} de bu katmandan gelmektedir.
 
 **Sudralar (Sudras)**
 

@@ -7,6 +7,21 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Hocalı Katliamı Nedir?</title>
+				
+					<dc:creator>insansevmez</dc:creator>
+				
+				
+					<description>&lt;p&gt;İnsanlık dramı olarak bilinen Hocalı katliamı Karabağ Savaşı sırasında 26 Şubat 1992 Azerbaycan Cumhuriyeti’nin Hocalı kasabasında yaşanan ve Azeri sivillerin Ermenistan’a bağlı kuvvetler tarafından toplu şekilde öldürülmesi olayıdır. Karabağ Savaşı öncesinde bölgedeki gerilimin artması 1988 yılında Dağlık Karabağ bölgesindeki Ermenilerin Azerbaycan’dan ayrılarak Ermenistan’a katılmak istemeleri ile başladı. Dağlık Karabağ Meclisi karar alarak Ermenistan’a bağlandığını ilan etti. Bu gelişme sonrasında Azerbaycan, Dağlık Karabağ bölgesinin özerk statüsünü kaldırdığını ve kendine bağladığı şeklinde bir kara aldı. Daha sonra Dağlık Karabağ bölgesi bölgede yaşayan Azerilerin katılmadığı bir bağımsızlık referandumu yaptı. Bu referandum sonrasında 6 Ocak 1992’de Dağlık Karabağ Cumhuriyeti resmen ilan edildi.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 19 Mar 2018 00:00:00 +0300</pubDate>
+				<link>http://localhost:4000/hocali-katliami-nedir.html</link>
+				<guid isPermaLink="true">http://localhost:4000/hocali-katliami-nedir.html</guid>
+			</item>
+		
+			<item>
 				<title>Kast Sistemi Nedir?</title>
 				
 					<dc:creator>insansevmez</dc:creator>
@@ -144,21 +159,6 @@ Eğer sevgi &lt;strong&gt;“sahip olmak”&lt;/strong&gt; türünde ele alınac
 				<pubDate>Sat, 10 Feb 2018 00:00:00 +0300</pubDate>
 				<link>http://localhost:4000/sevgiye-sahip-olabilirmiyiz.html</link>
 				<guid isPermaLink="true">http://localhost:4000/sevgiye-sahip-olabilirmiyiz.html</guid>
-			</item>
-		
-			<item>
-				<title>Çocuğunuz Sigara İçiyorsa!</title>
-				
-					<dc:creator>insansevmez</dc:creator>
-				
-				
-					<description>&lt;p&gt;Bugün 9 Şubat Dünya Sigarayı Bırakma günü ve bu güne özel bir yazı ile karşınızdayım. Bir çoğumuzun hayatında mutlaka sigara içen birileri vardır belki de siz içiyorsunuzdur. Sigaranın zararları konusunda sizleri TÜİK verileri ile başbaşa bırakıyorum.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Fri, 09 Feb 2018 00:00:00 +0300</pubDate>
-				<link>http://localhost:4000/cocugunuz-sigara-iciyorsa.html</link>
-				<guid isPermaLink="true">http://localhost:4000/cocugunuz-sigara-iciyorsa.html</guid>
 			</item>
 		
 	</channel>

@@ -2,7 +2,7 @@
 layout: post
 title: "8 Mart Dünya Kadınlar Günü"
 author: "insansevmez"
-tags: [8 mart kadın emekçiler günü,8 mart dünya kadınlar günü,8 mart 1857, dünya kadınlar günü, Triangle Gömlek Fabrikası, gömlek fabrikası yangını, dokuma fabrikası, kadınların grevi, taşeronluk,sendikalar,Asch binası,Kadın Sendikalar Birliği,Local 25 Sendikası,International Women's Day,Internationaler Frauentag,Clara Zetkin]
+tags: [8 mart kadın emekçiler günü,8 mart dünya kadınlar günü,8 mart 1857, dünya kadınlar günü, Triangle Gömlek Fabrikası, gömlek fabrikası yangını, dokuma fabrikası, kadınların grevi, taşeronluk,sendikalar,Asch binası,Kadın Sendikalar Birliği,Local 25 Sendikası,International Women's Day,Internationaler Frauentag,Clara Zetkin,insan sevmez tarihi]
 image: international-womens-day.jpg
 summary: "8 mart dünya kadınlar günü anlam ve önemi. dünya kadınlar günü hangi gün. dünya kadınlar günü ne zamandır. dünya kadınlar günü etkinlikleri. 8 mart dünya kadınlar günü tarihçesi. 8 mart dünya kadınlar günü ile ilgili ilginç bilgiler
 "
