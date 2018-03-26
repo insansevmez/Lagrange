@@ -4,7 +4,9 @@ title: "Sezgisel Düşünme Ustalığı"
 author: "insansevmez"
 tags: [sezgisel düşünme,hızlı ve yavaş düşünme,psikoloji]
 image: sezgisel-dusunme.jpg
-summary: "Hocalı Katliamı Nedir? Hocalı katliamı ne zaman oldu? Hocalı katliamı bilinmeyenler. Hocalı katliamı tarihi Ermenistan Hocalı Katliamı Azerbaycan Hocalı Kasabası Karabağ Savaşı Katliamı"
+summary: "Beyniniz sürekli olarak bir maliyet-fayda analizi yapıyor. Evrimleşmiş organizmalar gibi, enerji tasarrufu için daha verimli olan zihinsel kısayolları kullanırız.
+Daniel Kahneman'ın Hızlı ve Yavaş Düşünme adlı kitabında açıkladığı gibi, bilgiyi işlemek ve karar vermek için iki temel düşünce tarzını kullanıyoruz.
+"
 group: [Psikoloji]
 ---
 
