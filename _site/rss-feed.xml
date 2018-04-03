@@ -7,6 +7,21 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Herkesi Eleştiren Bir İç Sesi Vardır</title>
+				
+					<dc:creator>insansevmez</dc:creator>
+				
+				
+					<description>&lt;p&gt;Herkesin eleştiren bir iç sesi vardır. Ancak özgüveni düşük kişilerin iç sesi daha acımasız ve konuşkan olur. Ben yazımda bu iç sesi &lt;strong&gt;“eleştirmen”&lt;/strong&gt; olarak betimleyeceğim. Eleştirmen, yanlış giden işler için sizi suçlar. Sizi başkalarıyla, onların başarı ve yetenekleriyle karşılaştırıp sizi yetersiz bulur. Eleştirmen, erişilmesi olanaksız mükemmellik ölçüleri koyar ve sonra en küçük hatanız için sizi hırpalar. Tüm hatalarınızı kayda geçirdiği halde başarılarınız ve güçlü yanlarınızdan söz etmez.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 03 Apr 2018 00:00:00 +0300</pubDate>
+				<link>http://localhost:4000/herkesi-elestiren-bir-icsesi-vardir.html</link>
+				<guid isPermaLink="true">http://localhost:4000/herkesi-elestiren-bir-icsesi-vardir.html</guid>
+			</item>
+		
+			<item>
 				<title>Sezgisel Düşünme Ustalığı</title>
 				
 					<dc:creator>insansevmez</dc:creator>
@@ -142,21 +157,6 @@ Ama adımlarınızı hızlandırdığınızı da karşı taraftan tam ters istik
 				<pubDate>Mon, 19 Feb 2018 00:00:00 +0300</pubDate>
 				<link>http://localhost:4000/endise-nedir.html</link>
 				<guid isPermaLink="true">http://localhost:4000/endise-nedir.html</guid>
-			</item>
-		
-			<item>
-				<title>Erkek Çocuklar da Cinsel İstismara Uğruyor</title>
-				
-					<dc:creator>insansevmez</dc:creator>
-				
-				
-					<description>&lt;p&gt;Cinsel istismar haberlerinin her geçen gün arttığının farkında olmalısınız. Gerek sosyal medyada gerek haberlerde birçok istismar olayına şahit oluyoruz. Uzmanların yaptıkları araştırmalarda cinsel istismar oranları ülkemizde son 10 yılda %125 artış gösterdiği belirtiliyor. Cinsel istismara maruz kalan çocukların yaş dağılımları incelendiğinde; %30’unun 2-5 yaş, %40’ının 6-10 yaş, %30’unun 11-17 yaş gruplarında olduğu ortaya çıkmıştır. Bu durum şunu gösteriyor ki istismara uğrayan çocukların %70’i küçük yaş gruplarında olduğudur.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Tue, 13 Feb 2018 00:00:00 +0300</pubDate>
-				<link>http://localhost:4000/erkek-cocuklarda-cinsel-istismara-ugruyor.html</link>
-				<guid isPermaLink="true">http://localhost:4000/erkek-cocuklarda-cinsel-istismara-ugruyor.html</guid>
 			</item>
 		
 	</channel>
