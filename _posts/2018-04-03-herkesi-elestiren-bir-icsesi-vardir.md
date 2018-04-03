@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Herkesi Eleştiren Bir İç Sesi Vardır"
+title: "Herkesin Eleştiren Bir İç Sesi Vardır"
 author: "insansevmez"
 tags: [özgüven,eleştiri,salak,aptal,ilişki,iç ses,özgüvensiz,acımasız,psikoloji]
 image: ic-ses-kaynagi.jpg
