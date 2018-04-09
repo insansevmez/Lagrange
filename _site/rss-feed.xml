@@ -7,6 +7,21 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Aşk Kalıcı Olabilir mi?</title>
+				
+					<dc:creator>insansevmez</dc:creator>
+				
+				
+					<description>&lt;p&gt;Kadın erkek ilişkilerinde en kritik soru bu olsa gerektir. Evliliğin başlangıcında romantik duygular daha baskındır. İkinci dönemde kişilik ve güç çatışması yaşanmaya başlar. Taraflar akıllı veya şanslı iseler üçüncü dönem olan bağlılık aşamasına geçerler. Evlilikte aşkın yani romantik duyguların devam etmesi, iyi ilişki kurmaya bağlıdır. Bunun için aşk iyi ilişkinin sebebi değil, sonucudur.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 09 Apr 2018 00:00:00 +0300</pubDate>
+				<link>http://localhost:4000/ask-kalici-olabilir-mi.html</link>
+				<guid isPermaLink="true">http://localhost:4000/ask-kalici-olabilir-mi.html</guid>
+			</item>
+		
+			<item>
 				<title>Kendinizi Suçlamaktan Vazgeçin</title>
 				
 					<dc:creator>insansevmez</dc:creator>
@@ -141,21 +156,6 @@ Kast sistemini &lt;strong&gt;“Varna”&lt;/strong&gt; ve &lt;strong&gt;“Jati
 				<pubDate>Mon, 12 Mar 2018 00:00:00 +0300</pubDate>
 				<link>http://localhost:4000/kutuplasmak.html</link>
 				<guid isPermaLink="true">http://localhost:4000/kutuplasmak.html</guid>
-			</item>
-		
-			<item>
-				<title>8 Mart Dünya Kadınlar Günü</title>
-				
-					<dc:creator>insansevmez</dc:creator>
-				
-				
-					<description>&lt;p&gt;&lt;strong&gt;Dünya &lt;a href=&quot;http://localhost:4000/search?query=kadınlar&quot; target=&quot;_blank&quot;&gt;Kadınlar&lt;/a&gt; Günü&lt;/strong&gt; ya da &lt;strong&gt;Dünya Emekçiler Günü&lt;/strong&gt;, her yıl 8 Mart’ta kutlanan ve BM (Birleşmiş Milletler) tarafından 16 Aralık 1977 tarihinde kabul edilmiş uluslararası bir gündür.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Tue, 06 Mar 2018 00:00:00 +0300</pubDate>
-				<link>http://localhost:4000/8-mart-dunya-kadinlar-gunu.html</link>
-				<guid isPermaLink="true">http://localhost:4000/8-mart-dunya-kadinlar-gunu.html</guid>
 			</item>
 		
 	</channel>
