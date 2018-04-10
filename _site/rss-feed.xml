@@ -7,6 +7,21 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Kafese Hapsedilen Adam</title>
+				
+					<dc:creator>insansevmez</dc:creator>
+				
+				
+					<description>&lt;p&gt;Uzak ülkelerden birinde vaktiyle bir kral yaşarmış. Bu kral, bir akşam diplomatik bir davete katılmış. Davet sıkıcı ve yorucuymuş, bu yüzden sarayına döner dönmez pencere­ nin yanında en sevdiği koltuğuna kurulup sarayın öbür ka­ nadındaki misafir odasından gelen müziği dinlemeye koyul­ muş. Pencereden öylesine dışarıyı izlerken gözüne sıradan görünüşlü bir adam çarpmış. Adam evine dönmek üzere sa­ rayın önünden geçen ve beş senedir aynı yolu haftanın beş günü yürüyen kendi halinde biriymiş. Kral bu adamın haya­ tını hayal etmeye başlamış birden. Evine varışım, karısını ku­ caklamasını, geç bir saatte yemeğe oturuşunu, çocuklarla sohbet etmesini, yatağına yatmasını, belki karısıyla aşk dolu dakikalar geçirmesini, uyumasını ve ertesi gün tekrar işe git­ mek için erkenden kalkışını, bunların hepsini zihninde canlandırmış.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 10 Apr 2018 00:00:00 +0300</pubDate>
+				<link>http://localhost:4000/kafese-hapsedilen-adam.html</link>
+				<guid isPermaLink="true">http://localhost:4000/kafese-hapsedilen-adam.html</guid>
+			</item>
+		
+			<item>
 				<title>Aşk Kalıcı Olabilir mi?</title>
 				
 					<dc:creator>insansevmez</dc:creator>
@@ -141,21 +156,6 @@ Kast sistemini &lt;strong&gt;“Varna”&lt;/strong&gt; ve &lt;strong&gt;“Jati
 				<pubDate>Tue, 13 Mar 2018 00:00:00 +0300</pubDate>
 				<link>http://localhost:4000/kast-sistemi-nedir.html</link>
 				<guid isPermaLink="true">http://localhost:4000/kast-sistemi-nedir.html</guid>
-			</item>
-		
-			<item>
-				<title>Kutuplaşmak</title>
-				
-					<dc:creator>insansevmez</dc:creator>
-				
-				
-					<description>&lt;p&gt;Türk Dil Kurumu sözlüğüne göre kutuplaşma &lt;strong&gt;“Bir toplulukta düşünce, görüş, sosyal ve siyasal konum ve tavır olarak iki karşıt grupta yoğunlaşmak.”&lt;/strong&gt; şeklinde tanımlanıyor. Peki &lt;strong&gt;topluluk&lt;/strong&gt; sizce bir kutuplaşma mıdır? Kelime anlamını kenara bırakıp insanın tarihi boyunca birçok konuda kutuplaşma içerisinde olduğunu ve bu tanımın çok basit kaldığını düşünüyorum. Öyle ki , sen zenginsin sen fakirsin, sen dindarsın sen dinsizsin, sen müslümansın sen hristiyansın, sen şu takımlısın sen bu takımlısın, sen sağcısın sen solcusun, sen şu partilisin sen bu partilisin, sen siyahsın sen beyazsın, sen kadınsın sen erkeksin, sen üstünsün sen hakirsin, sen bizdensin sen değilsin, &lt;strong&gt;ben sadece &lt;a href=&quot;http://localhost:4000/search?query=insan&quot; target=&quot;_blank&quot;&gt;insanım&lt;/a&gt; ya sen nesin?&lt;/strong&gt;&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Mon, 12 Mar 2018 00:00:00 +0300</pubDate>
-				<link>http://localhost:4000/kutuplasmak.html</link>
-				<guid isPermaLink="true">http://localhost:4000/kutuplasmak.html</guid>
 			</item>
 		
 	</channel>
