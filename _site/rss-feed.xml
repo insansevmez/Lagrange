@@ -7,6 +7,21 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Sanırım duygusal şiddete maruz kalıyo-rum!</title>
+				
+					<dc:creator>insansevmez</dc:creator>
+				
+				
+					<description>&lt;p&gt;Teşhisin ilk aşaması kendinden şüphe etmeyi bırakıp partnerin- den şüphe etmeye başlamaktır. Bir gün partnerinin olduğunu düşündüğün kişi olmadığını fark edersin; hani sanki artık onu tanıyamıyorsundur. Sağlıklı ilişkilerde partnerlerin diğer- lerine bağırmadığını, onları aşağılamadığını ya da incit- mediğini; böylesi onur kırıcı durumlar yaşandığında bun- ların olağandışı ve öngörüle- meyen durumlar olduğunu ve sorumlu kişinin durumu telafi edebilmek için büyük emek harcadığını fark ettiğin dönem- dir bu. Part- nerinle farklı gerçeklikler yaşadığınızı fark ettiğin bir sürece dönüşür. Ortak gerçeklik illüzyonundan uyandığında, seninle alakalı bir problem olmadığını, şiddet uygulayan kişinin seni baskı ve kontrol altına alma amacıyla hareket ettiğini fark edersin. Partnerinin su- istimal edici davranmaya de- vam etmesi ne senin suçun, ne de sorumluluğun. Senin işin ne birilerini değiştirmek/ düzeltmek ne de partnerinin bir başkasını incitmemesini sağlamak; yalnızca ilişkinin sebep olduğu yaraları sarmaya çalışmalısın. Duygusal şiddeti tanıyıp buna maruz kalmamak için adım atarak zaten iyileşme yoluna girmiş bulunuyorsun. İyileşme herhangi bir programı takip etmeyen bir toparlan- ma ve yeniden uyumlanma süreci. Kendine karşı anlayışlı ol. . İhtiyaç duyduğun desteği al. Vücudun, zihnin ve ruhunla ilgilen. Hak ettiğin ve alamadığın sevginin, biten ilişkinin ve benliğinden kaybettiklerinin yasını tutma konusunda kendine izin ver. Her şeyin kolaylaşacağının farkında ol. Yaşananın yanlış olduğunu fark ederek benliğinden kaybettiklerini geri kazanmaya başlayabilirsin. Partnerinden göremediğin sevgi ve desteğin yasını tu- tarak sevgi ve desteği ne kadar hak ettiğini anlamaya başlayabilirsin.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 15 Apr 2018 00:00:00 +0300</pubDate>
+				<link>http://localhost:4000/sanirim-duygusal-siddete-maruz-kaliyorum.html</link>
+				<guid isPermaLink="true">http://localhost:4000/sanirim-duygusal-siddete-maruz-kaliyorum.html</guid>
+			</item>
+		
+			<item>
 				<title>Kafese Hapsedilen Adam</title>
 				
 					<dc:creator>insansevmez</dc:creator>
@@ -140,22 +155,6 @@ Daniel Kahneman’ın Hızlı ve Yavaş Düşünme adlı kitabında açıkladı�
 				<pubDate>Mon, 19 Mar 2018 00:00:00 +0300</pubDate>
 				<link>http://localhost:4000/hocali-katliami-nedir.html</link>
 				<guid isPermaLink="true">http://localhost:4000/hocali-katliami-nedir.html</guid>
-			</item>
-		
-			<item>
-				<title>Kast Sistemi Nedir?</title>
-				
-					<dc:creator>insansevmez</dc:creator>
-				
-				
-					<description>&lt;p&gt;Hindistan tarihi denildiğinde aklımıza ilk gelen kast sistemidir. Hindistan’ın ve Afrika’nın bazı bölgelerinde günümüzde halen uygulanmaya devam etmektedir. İnsanların sınıflandırılarak hayatlarını devam ettirdikleri bu sistemi tanıyalım. &lt;strong&gt;“Kast”&lt;/strong&gt; kelimesi Portekizce ve İspanyolcada casta yani ırk/soy anlamına, Latincede castus saf soy anlamına gelmektedir.&lt;br /&gt;
-Kast sistemini &lt;strong&gt;“Varna”&lt;/strong&gt; ve &lt;strong&gt;“Jati”&lt;/strong&gt; olarak ikiye ayırabiliriz. Varna, kastın en üst dört tabakasını (Brahman, Kşatriya, Vayşiya ve Südralar) temsil ederek insanların toplumun hangi sınıfından olduğunu belirlerken, Jati ise insanların hangi işlerde çalışacağı, toplum içerisinde nasıl bir yaşam tarzında hayatını devam ettireceğini ve nasıl bir toplumsal, hukuki düzene göre yaşayacaklarını belirler.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Tue, 13 Mar 2018 00:00:00 +0300</pubDate>
-				<link>http://localhost:4000/kast-sistemi-nedir.html</link>
-				<guid isPermaLink="true">http://localhost:4000/kast-sistemi-nedir.html</guid>
 			</item>
 		
 	</channel>
