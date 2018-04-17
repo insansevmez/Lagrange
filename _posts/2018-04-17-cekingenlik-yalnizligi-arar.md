@@ -3,7 +3,7 @@ layout: post
 title: "Çekingenlik Yalnızlığı Arar"
 author: "insansevmez"
 tags: [çekingenlik,yanlızlık,psikoloji]
-image: cekingenlik-yanlizlik.jpg.jpg
+image: cekingenlik-yanlizlik.jpg
 summary: "Çekingenlik ergenliğin, ideallere tutkun, en yüksek ve baş döndürücü idealleri arzulayan ergenliğin simgesel mirasıdır ve bu ideallerin yenik düşmesi ve başkaları tarafından kayıtsızlık­ la karşılanmaları, zaman zaman, ergenlerin intiharın büyüsüne kapılmasını sağlayacak kadar derin ruh yaralarına neden olur."
 group: [Psikoloji]
 ---
